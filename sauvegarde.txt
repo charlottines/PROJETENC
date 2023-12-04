@@ -1,0 +1,1576 @@
+ADE	Jeremy	18	11	2024	15	45	1	45	rendez-vous humanitaire
+ADE	Jeremy	28	1	2024	9	0	0	30	projet
+ADESSIN	Blanche	2	5	2024	10	15	1	45	rendez-vous associatif
+AFEU	Pierre	23	9	2024	16	15	0	45	repas d'affaires
+AFFRITTE	Barack	21	9	2024	13	45	2	30	rendez-vous familial
+AFFRITTE	Barack	6	7	2024	10	0	4	15	rendez-vous culturel
+AFFRITTE	Barack	15	6	2024	12	15	3	30	repas d'affaires
+AFRITTE	Barack	17	7	2024	9	30	1	15	rendez-vous religieux
+AFRITTE	Barack	14	4	2024	17	0	2	0	réunion
+AFRITTE	Barack	2	4	2024	10	0	0	0	rendez-vous amoureux
+AGE	Marie	8	5	2024	13	45	0	45	rendez-vous bénévole
+AGE	Marie	14	2	2024	10	15	0	0	rendez-vous insolite
+AGERE	Tex	8	11	2024	9	30	1	15	rendez-vous insolite
+AGERE	Tex	11	7	2024	12	30	0	0	rendez-vous associatif
+AGERE	Tex	24	3	2024	14	45	2	30	rendez-vous politique
+AGERE	Tex	14	2	2024	13	45	1	0	rendez-vous associatif
+AJUS	Laure-Ange	15	11	2024	9	0	0	15	rendez-vous culturel
+AJUS	Laure-Ange	27	10	2024	11	0	1	30	réunion
+AJUS	Laure-Ange	23	7	2024	9	45	0	45	rendez-vous insolite
+AJUS	Laure-Ange	23	6	2024	15	15	2	0	rendez-vous d'amitié
+AKEPOURLUI	Yann	28	10	2024	12	45	0	0	rendez-vous événementiel
+ALAMATERNITE	Ines	0	0	0	0	0	0	0	0
+ALAPATTE	Phil	22	8	2024	16	45	2	15	rendez-vous associatif
+ALAPATTE	Phil	22	7	2024	11	30	2	30	rendez-vous médical
+ALATETE	Djamal	19	9	2024	17	0	1	0	rendez-vous insolite
+ALATETE	Djamal	24	4	2024	11	15	2	30	rendez-vous humanitaire
+ALIZAN	Gaspard	0	0	0	0	0	0	0	0
+ALLESSETOMAS	Gemal	14	6	2024	12	45	1	45	rendez-vous événementiel
+ALLIGATOR	Ali	21	10	2024	16	30	7	30	rendez-vous spirituel
+ALLIGATOR	Ali	20	3	2024	9	30	2	0	projet
+ALLIGATOR	Ali	18	2	2024	11	30	4	45	rendez-vous associatif
+ALLIGATOR	Ali	24	1	2024	8	45	1	45	rendez-vous amoureux
+ALLIGATOR	Ali	14	1	2024	17	15	2	45	rendez-vous médical
+ALLPANE	Ahmed	9	12	2024	13	30	8	0	projet
+ALLPANE	Ahmed	14	10	2024	15	15	4	0	rendez-vous médical
+ALLPANE	Ahmed	9	10	2024	10	30	1	15	rendez-vous d'amitié
+ALLPANE	Ahmed	20	6	2024	14	0	8	15	rendez-vous événementiel
+ALLPANE	Ahmed	14	3	2024	13	15	3	30	rendez-vous technologique
+ALORS	Berthe	7	8	2024	11	30	0	15	rendez-vous ludique
+ALORS	Berthe	20	3	2024	13	0	0	30	rendez-vous associatif
+ALORS	Berthe	25	2	2024	16	30	0	45	rendez-vous amoureux
+AMEDEPAN	Henri	20	9	2024	11	15	1	45	rendez-vous médical
+AMEDEPAN	Henri	3	6	2024	13	30	1	0	rendez-vous culturel
+AMELMOU	Karl	0	0	0	0	0	0	0	0
+AMO	Nadine	15	11	2024	16	30	1	45	rendez-vous artistique
+AMO	Nadine	7	8	2024	16	0	1	15	rendez-vous médical
+AMO	Nadine	6	7	2024	14	15	2	45	entretien
+AMO	Nadine	15	4	2024	14	30	0	30	rendez-vous sportif
+AMO	Nadine	24	1	2024	12	45	0	0	rendez-vous ludique
+AMOIMEME	Fidele	27	11	2024	16	30	1	45	rendez-vous culturel
+AMOIMEME	Fidele	9	9	2024	9	30	2	0	rendez-vous familial
+AMOIMEME	Fidele	11	5	2024	12	0	0	30	rendez-vous scientifique
+AMOUR	Tristan	1	12	2024	10	0	2	0	projet
+AMOUR	Tristan	1	11	2024	9	0	2	0	projet
+AMOUR	Tristan	17	7	2024	16	45	2	45	rendez-vous ludique
+AMOUR	Tristan	17	7	2024	11	15	1	30	réunion
+AMOUR	Tristan	11	5	2024	13	30	0	45	rendez-vous spirituel
+ANAMOURE	Fidele	21	10	2024	14	45	2	30	rendez-vous artistique
+ANAMOURE	Fidele	24	5	2024	9	0	0	30	rendez-vous familial
+ANAMOURE	Fidele	14	3	2024	15	15	1	45	rendez-vous d'amitié
+ANONYME	Alain	8	5	2024	16	30	6	0	rendez-vous d'amitié
+ANONYME	Alain	25	4	2024	16	0	8	45	rendez-vous artistique
+ANONYME	Alain	24	3	2024	9	15	4	30	repas d'affaires
+ARE	Paul	11	2	2024	11	45	0	30	rendez-vous d'amitié
+AREPASSE	Jennifer	19	9	2024	16	45	2	30	rendez-vous ludique
+AREPASSE	Jennifer	8	8	2024	13	45	0	30	rendez-vous scientifique
+AREPASSE	Jennifer	5	6	2024	15	45	2	30	rendez-vous ludique
+AROÏDE	Paul	0	0	0	0	0	0	0	0
+ASSAIN	Marc	15	11	2024	14	0	1	0	rendez-vous culturel
+ASSAIN	Marc	3	6	2024	11	45	1	0	entretien
+ASSONMEC	Fidel	20	11	2024	16	15	1	0	rendez-vous scientifique
+ASSONMEC	Fidel	10	7	2024	13	45	1	15	projet
+ATEFESSE	Edgard	0	0	0	0	0	0	0	0
+ATEUR	Nordine	1	10	2024	10	45	0	45	rendez-vous culturel
+ATEUR	Nordine	4	8	2024	13	15	1	45	rendez-vous médical
+ATROVITE	Yves	23	10	2024	13	15	0	15	projet
+ATROVITE	Yves	5	7	2024	13	0	2	45	rendez-vous religieux
+AUBOISDORMANT	Abel	14	11	2024	14	45	1	0	rendez-vous ludique
+AUBOISDORMANT	Abel	22	10	2024	11	15	0	0	repas d'affaires
+AUFFRAY	Annie-Zette	18	5	2024	11	45	0	45	rendez-vous ludique
+AUVRAI	Annie-Zette	21	11	2024	12	0	3	45	rendez-vous sportif
+AUVRAI	Annie-Zette	8	6	2024	17	0	3	45	rendez-vous insolite
+AUVRAI	Annie-Zette	7	3	2024	17	0	0	45	rendez-vous événementiel
+AUZAUR	Amandine	4	10	2024	17	0	0	30	rendez-vous technologique
+AUZETOUT	Amandine	26	6	2024	16	30	6	45	rendez-vous scientifique
+AUZETOUT	Amandine	26	5	2024	14	0	2	30	réunion
+AUZETOUT	Amandine	7	5	2024	8	30	6	45	rendez-vous artistique
+AUZETOUT	Amandine	8	4	2024	17	0	5	45	entretien
+AUZETOUT	Amandine	13	3	2024	17	0	8	30	rendez-vous familial
+AUZETOUT	Amandine	8	3	2024	11	45	7	0	réunion
+AVANTLEHIGREC	Felix	20	11	2024	16	0	2	0	rendez-vous politique
+AVUDOTRE	Nadege	0	0	0	0	0	0	0	0
+BALLETOULTAN	Jean	0	0	0	0	0	0	0	0
+BALMASQUE	Alonzo	0	0	0	0	0	0	0	0
+BAMBELLE	Lary	11	4	2024	15	30	0	30	rendez-vous événementiel
+BAMBELLE	Lary	19	2	2024	12	30	1	15	rendez-vous associatif
+BAMBOIS	Jean	11	10	2024	13	0	2	45	rendez-vous d'amitié
+BAMBOIS	Jean	28	2	2024	17	45	2	45	rendez-vous amoureux
+BAMBOIS	Jean	6	1	2024	9	30	0	0	rendez-vous spirituel
+BANDERILLERE	Armand	28	11	2024	17	45	4	45	repas d'affaires
+BANDERILLERE	Armand	6	11	2024	10	30	3	30	rendez-vous scientifique
+BANDERILLERE	Armand	1	11	2024	15	45	6	45	rendez-vous spirituel
+BANDERILLERE	Armand	1	11	2024	12	30	0	45	rendez-vous insolite
+BANDERILLERE	Armand	6	3	2024	11	45	7	0	rendez-vous ludique
+BANDOUILLERE	Armand	0	0	0	0	0	0	0	0
+BANYLON	Philemon	0	0	0	0	0	0	0	0
+BAR	Joe	0	0	0	0	0	0	0	0
+BASKET	L’Esmee	25	12	2024	9	45	0	30	rendez-vous bénévole
+BASKET	L’Esmee	8	12	2024	10	15	2	0	rendez-vous insolite
+BASKET	L’Esmee	15	6	2024	11	30	0	0	rendez-vous bénévole
+BASKET	L’Esmee	7	2	2024	13	30	2	0	rendez-vous culturel
+BAVE	Jean	20	5	2024	16	45	0	30	rendez-vous scientifique
+BERMAN	Aldo	23	10	2024	10	30	2	0	projet
+BERMAN	Aldo	27	8	2024	13	0	0	0	réunion
+BERMAN	Aldo	24	6	2024	15	0	0	45	rendez-vous médical
+BERMAN	Aldo	2	3	2024	17	0	1	30	projet
+BEUDEBOIT	L’Agent	26	9	2024	10	0	1	15	rendez-vous ludique
+BEUDEBOIT	L’Agent	8	9	2024	11	45	1	45	rendez-vous familial
+BEUDEBOIT	L’Agent	5	6	2024	12	0	2	45	rendez-vous médical
+BEUDEBOIT	L’Agent	19	3	2024	16	0	2	30	rendez-vous associatif
+BIEN	Samira	25	8	2024	14	30	2	0	rendez-vous technologique
+BIEN	Samira	9	5	2024	12	30	2	0	rendez-vous politique
+BIEN	Samira	6	3	2024	12	45	2	0	repas d'affaires
+BIEN	Samira	24	2	2024	12	30	1	30	présentation
+BIEN	Samira	2	1	2024	16	45	1	30	rendez-vous spirituel
+BIENBU	Ella	22	11	2024	12	45	0	45	entretien
+BIENBU	Ella	15	11	2024	14	45	0	45	rendez-vous sportif
+BIENCEQUETAECRIS	Aurelie	22	9	2024	9	0	0	15	rendez-vous ludique
+BIENCOU	Ella	21	11	2024	8	45	3	30	rendez-vous d'amitié
+BIENCOU	Ella	14	11	2024	13	45	0	15	entretien
+BIENCOU	Ella	7	11	2024	15	45	2	30	rendez-vous humanitaire
+BIENCOU	Ella	21	10	2024	15	30	7	30	rendez-vous spirituel
+BIENCOU	Ella	9	8	2024	16	45	6	15	rendez-vous scientifique
+BIENCOU	Ella	12	6	2024	11	0	1	30	rendez-vous familial
+BIENCOU	Ella	9	4	2024	13	45	2	30	rendez-vous humanitaire
+BIENCOU	Ella	24	3	2024	12	15	4	15	rendez-vous culturel
+BIENHAUT	Ella	5	12	2024	13	0	6	30	rendez-vous d'amitié
+BIENHAUT	Ella	18	6	2024	9	45	6	30	rendez-vous bénévole
+BIENHAUT	Ella	12	4	2024	11	0	2	30	rendez-vous humanitaire
+BIENHAUT	Ella	18	3	2024	9	45	7	45	rendez-vous sportif
+BIENHAUT	Ella	20	1	2024	10	45	7	45	rendez-vous médical
+BIENHU	Ella	26	5	2024	13	30	0	45	rendez-vous médical
+BIENLEONGLE	Salim	15	8	2024	17	45	1	0	rendez-vous culturel
+BIENLEONGLE	Salim	13	7	2024	9	45	2	15	rendez-vous ludique
+BIENLEONGLE	Salim	6	4	2024	9	30	1	0	repas d'affaires
+BIENLEPETIT	Ambroise	2	11	2024	14	0	2	0	rendez-vous scientifique
+BIENLEPETIT	Ambroise	12	10	2024	9	45	0	30	projet
+BIENLEPETIT	Ambroise	18	7	2024	11	45	0	15	rendez-vous événementiel
+BIENONGLE	Salim	13	9	2024	11	15	0	15	rendez-vous technologique
+BIENONGLE	Salim	8	8	2024	13	15	6	0	rendez-vous politique
+BIENONGLE	Salim	1	7	2024	17	15	4	45	rendez-vous familial
+BIENONGLE	Salim	4	1	2024	16	15	1	0	rendez-vous événementiel
+BIENSACHEQUETAECRIS	Aurelie	9	7	2024	11	15	5	0	réunion
+BIENSACHEQUETAECRIS	Aurelie	2	6	2024	9	15	6	45	repas d'affaires
+BIENSACHEQUETAECRIS	Aurelie	21	1	2024	14	15	4	45	entretien
+BIENSUCE	Emma	6	11	2024	9	0	2	45	rendez-vous ludique
+BIENSUCE	Humphrey	27	9	2024	9	45	1	45	entretien
+BLE	Amanda	10	8	2024	15	30	2	30	rendez-vous associatif
+BLE	Amanda	19	1	2024	17	45	0	15	rendez-vous bénévole
+BLE	Amanda	1	1	2024	12	15	2	15	présentation
+BLEUCIEL	Amanda	22	11	2024	12	0	6	15	projet
+BLEUCIEL	Amanda	15	9	2024	17	45	6	30	rendez-vous humanitaire
+BLEUCIEL	Amanda	8	9	2024	10	0	7	30	rendez-vous spirituel
+BLEUCIEL	Amanda	9	8	2024	14	0	8	15	rendez-vous bénévole
+BLEUCIEL	Amanda	16	7	2024	12	45	7	0	rendez-vous ludique
+BLEUCIEL	Amanda	8	4	2024	10	0	8	0	rendez-vous événementiel
+BLEUCIEL	Amanda	5	4	2024	11	30	4	0	rendez-vous ludique
+BLUEZEBRA	Agathe	12	12	2024	11	45	4	30	rendez-vous artistique
+BLUEZEBRA	Agathe	14	8	2024	17	45	7	15	rendez-vous spirituel
+BLUEZEBRA	Agathe	18	6	2024	9	45	3	0	rendez-vous amoureux
+BLUEZEBRA	Agathe	16	5	2024	11	0	5	0	projet
+BLUEZEBRA	Agathe	8	1	2024	10	0	5	30	rendez-vous technologique
+BLUEZEBRA	Agathe	7	1	2024	15	30	4	45	rendez-vous culturel
+BOCHE	Rabbi	15	10	2024	12	0	1	45	rendez-vous spirituel
+BOCHE	Rabbi	23	2	2024	16	15	1	45	rendez-vous technologique
+BONBOEUR	Jean	11	6	2024	16	0	2	45	rendez-vous technologique
+BONNAUD	Jean	24	9	2024	10	30	2	45	présentation
+BONNAUD	Jean	8	4	2024	11	0	0	30	rendez-vous amoureux
+BONNAUD	Jean	28	2	2024	17	0	1	45	rendez-vous bénévole
+BORDEAUXCHESNEL	Ariette	0	0	0	0	0	0	0	0
+BORDEAUXCHESNELLE	Ariette	23	10	2024	8	30	5	45	réunion
+BORDEAUXCHESNELLE	Ariette	18	9	2024	16	0	6	30	rendez-vous politique
+BORDEAUXCHESNELLE	Ariette	24	6	2024	13	15	4	0	rendez-vous scientifique
+BORDEAUXCHESNELLE	Ariette	24	2	2024	15	30	6	45	rendez-vous spirituel
+BORDEAUXCHESNELLE	Ariette	21	1	2024	8	30	4	45	rendez-vous politique
+BORDEAUXCHESNELLE	Ariette	15	1	2024	9	45	4	30	rendez-vous humanitaire
+BOREALE	Aurore	0	0	0	0	0	0	0	0
+BOREALITE	Aurore	21	12	2024	11	30	4	15	rendez-vous spirituel
+BOREALITE	Aurore	18	9	2024	10	45	0	30	rendez-vous associatif
+BOREALITE	Aurore	16	2	2024	10	0	6	45	rendez-vous artistique
+BOREALITE	Aurore	12	2	2024	13	45	4	45	rendez-vous d'amitié
+BOREALITE	Aurore	9	1	2024	9	0	2	15	rendez-vous religieux
+BOU	Alban	21	11	2024	13	0	0	0	rendez-vous associatif
+BOU	Alban	6	8	2024	13	0	2	45	rendez-vous scientifique
+BOU	Alban	3	6	2024	14	15	0	15	rendez-vous politique
+BOU	Alban	27	3	2024	13	45	0	30	rendez-vous événementiel
+BOUQUET	Alban	7	12	2024	12	15	0	45	rendez-vous d'amitié
+BOUQUET	Alban	7	11	2024	14	0	8	15	rendez-vous associatif
+BOUQUET	Alban	18	10	2024	12	0	7	30	réunion
+BOUQUET	Alban	8	10	2024	10	0	4	15	projet
+BOUQUET	Alban	19	8	2024	17	30	2	15	rendez-vous d'amitié
+BOUQUET	Alban	16	5	2024	16	0	7	15	entretien
+BOUQUET	Alban	16	4	2024	16	30	1	45	rendez-vous insolite
+BOUQUET	Alban	8	2	2024	10	0	0	45	rendez-vous sportif
+BOUVAMECHERCHERUNEBIERE	Ted	6	11	2024	11	15	1	30	présentation
+BOUVAMECHERCHERUNEBIERE	Ted	12	4	2024	13	30	0	45	rendez-vous technologique
+BRICOTEPECHE	Gina	6	8	2024	17	45	0	0	rendez-vous ludique
+BRICOTEPECHE	Gina	4	8	2024	17	0	1	30	rendez-vous sportif
+BRILLE	Laure	6	9	2024	11	30	1	0	rendez-vous médical
+BROMASSEUR	Sylvie	22	11	2024	11	45	2	0	rendez-vous bénévole
+BU	Amede	0	0	0	0	0	0	0	0
+CAGESCOLAIRE	Rhama	16	12	2024	14	30	0	15	rendez-vous scientifique
+CAGESCOLAIRE	Rhama	9	11	2024	12	30	1	15	rendez-vous politique
+CAGESCOLAIRE	Rhama	11	8	2024	12	30	0	0	repas d'affaires
+CAGESCOLAIRE	Rhama	23	7	2024	9	15	2	15	rendez-vous amoureux
+CAGESCOLAIRE	Rhama	23	3	2024	17	30	0	0	rendez-vous amoureux
+CAGESCOLAIRE	Rhama	14	1	2024	15	45	1	0	rendez-vous familial
+CALMAMOTO	Ademar	23	12	2024	12	45	2	30	rendez-vous bénévole
+CALMAMOTO	Ademar	8	12	2024	15	30	7	30	repas d'affaires
+CALMAMOTO	Ademar	15	7	2024	17	0	4	30	entretien
+CALMAMOTO	Ademar	16	6	2024	9	30	5	30	rendez-vous ludique
+CALVA	Justin	21	6	2024	12	45	0	30	rendez-vous spirituel
+CAMBRONNE	Maude	7	5	2024	13	30	2	15	rendez-vous associatif
+CAPE	Andy	2	8	2024	15	30	1	30	présentation
+CAPEY	Andy	25	8	2024	12	30	4	45	rendez-vous humanitaire
+CAPEY	Andy	17	4	2024	16	30	4	15	rendez-vous associatif
+CARELESS	Ciceron	24	8	2024	9	30	5	30	rendez-vous amoureux
+CECOUVERT	Andre	18	9	2024	8	45	7	15	rendez-vous artistique
+CECOUVERT	Andre	5	8	2024	10	30	0	30	rendez-vous bénévole
+CECOUVERT	Andre	27	7	2024	10	0	7	45	rendez-vous médical
+CECOUVERT	Andre	5	6	2024	14	45	3	0	rendez-vous familial
+CECOUVERT	Andre	14	2	2024	12	15	5	15	rendez-vous médical
+CECOUVERT	Andre	23	1	2024	17	45	0	30	rendez-vous ludique
+CECOUVERT	Andre	18	1	2024	9	30	1	45	projet
+CECOUVERT	Andre	18	1	2024	9	0	0	0	rendez-vous événementiel
+CEDUPOULET	Edmond	15	6	2024	12	15	2	0	entretien
+CEDUPOULET	Edmond	12	1	2024	9	15	0	0	rendez-vous événementiel
+CEHEF	Hassan	19	10	2024	12	15	0	15	réunion
+CEHEF	Hassan	20	9	2024	9	45	1	45	rendez-vous culturel
+CEHEF	Hassan	20	8	2024	17	15	2	15	rendez-vous politique
+CEKILEPAMOR	Sylvie	12	10	2024	14	15	2	0	entretien
+CEKILEPAMOR	Sylvie	17	7	2024	13	45	2	45	entretien
+CELERT	Jacques	2	5	2024	15	30	2	15	rendez-vous religieux
+CELERT	Jacques	18	2	2024	16	15	1	45	rendez-vous culturel
+CENANA	Marcel	23	7	2024	11	0	0	0	rendez-vous spirituel
+CENANA	Marcel	15	1	2024	17	30	1	45	rendez-vous spirituel
+CENHALAN	Hans	7	3	2024	16	15	1	0	rendez-vous sportif
+CEOUVERT	Andre	0	0	0	0	0	0	0	0
+CEPACARE	Ciceron	0	0	0	0	0	0	0	0
+CEPTION	Alex	21	12	2024	14	30	0	15	rendez-vous spirituel
+CEPTION	Alex	14	5	2024	17	30	2	45	rendez-vous spirituel
+CEPTION	Alex	28	3	2024	9	45	0	45	rendez-vous ludique
+CEPTION	Alex	15	1	2024	16	0	0	0	rendez-vous religieux
+CERTACERTAIN	Alain	2	6	2024	15	15	2	0	repas d'affaires
+CERTACERTAIN	Alain	20	5	2024	17	30	3	15	rendez-vous humanitaire
+CERTAIN	Alain	1	6	2024	9	30	0	45	rendez-vous sportif
+CHE	Scott	15	12	2024	14	0	1	45	rendez-vous technologique
+CHE	Scott	23	10	2024	15	15	1	15	rendez-vous humanitaire
+CHE	Scott	20	2	2024	14	15	0	15	rendez-vous culturel
+CHEZMOI	Vivien	17	12	2024	11	30	1	15	rendez-vous humanitaire
+CHEZMOI	Vivien	22	5	2024	16	0	2	15	rendez-vous insolite
+CHEZMOI	Vivien	2	1	2024	11	15	2	15	rendez-vous médical
+CHIRACOTE	Apiss	12	12	2024	15	45	8	30	rendez-vous scientifique
+CHIRACOTE	Apiss	15	10	2024	10	0	1	0	rendez-vous événementiel
+CHIRACOTE	Apiss	1	8	2024	17	15	2	30	rendez-vous médical
+CHIRACOTE	Apiss	1	6	2024	12	30	2	30	rendez-vous bénévole
+CHIRACOTE	Apiss	15	5	2024	16	0	5	30	rendez-vous médical
+CHIRACOTE	Apiss	9	4	2024	8	45	5	30	présentation
+CHIRACOTE	Apiss	5	1	2024	16	30	7	15	rendez-vous scientifique
+CHMONFILS	Thierry	23	10	2024	12	0	2	0	rendez-vous médical
+CHMONFILS	Thierry	19	8	2024	11	0	1	30	rendez-vous insolite
+CHOLARD	Guy	8	11	2024	17	0	0	30	repas d'affaires
+CHOLARD	Guy	10	8	2024	14	30	2	0	rendez-vous bénévole
+CHON	Denis	19	12	2024	10	30	0	0	repas d'affaires
+CHON	Denis	10	12	2024	15	0	1	15	entretien
+CHON	Denis	17	9	2024	16	30	2	45	repas d'affaires
+CHON	Denis	18	7	2024	12	30	0	0	rendez-vous technologique
+CHTRON	Paul	2	10	2024	15	30	0	30	rendez-vous religieux
+CHTRON	Paul	6	7	2024	10	0	1	30	repas d'affaires
+CHTRON	Paul	2	1	2024	13	15	0	15	présentation
+CIENASAMEMERE	Lucien	23	12	2024	17	45	1	15	entretien
+CITE	Alex	27	12	2024	14	30	2	0	rendez-vous familial
+CIVABIME	Jean	0	0	0	0	0	0	0	0
+COCHET	Henri	25	3	2024	13	45	1	15	rendez-vous insolite
+CODESECRET	Philemon	0	0	0	0	0	0	0	0
+COMMANDEMENT	Lady	20	12	2024	14	0	2	45	rendez-vous religieux
+COMMANDEMENT	Lady	28	8	2024	12	15	1	45	rendez-vous amoureux
+COMMANDEMENT	Lady	2	7	2024	17	15	2	0	rendez-vous bénévole
+COMMANDEMENT	Lady	2	5	2024	16	15	0	45	rendez-vous artistique
+COMMANDEMENTS	Lydie	19	9	2024	17	30	1	0	rendez-vous sportif
+COMMANDEMENTS	Lydie	10	9	2024	17	0	0	15	rendez-vous associatif
+COMMANDEMENTS	Lydie	11	6	2024	9	30	1	30	rendez-vous insolite
+COMMANDEMENTS	Lydie	27	4	2024	12	30	1	45	rendez-vous familial
+COMMENT	Anna-Lise	15	9	2024	8	30	5	45	rendez-vous ludique
+COMMENT	Anna-Lise	23	8	2024	12	30	3	0	rendez-vous religieux
+COMMENT	Anna-Lise	28	7	2024	13	0	3	30	rendez-vous d'amitié
+COMMENT	Anna-Lise	20	5	2024	8	45	2	0	rendez-vous culturel
+COMMENT	Anna-Lise	14	4	2024	11	45	7	0	présentation
+COMMENT	Anna-Lise	10	2	2024	11	15	3	45	rendez-vous bénévole
+COMMENT	Anna-Lise	28	1	2024	9	30	6	0	rendez-vous ludique
+CONNAISSANCE	Aretha	2	9	2024	11	45	7	45	rendez-vous religieux
+CONNAISSANCE	Aretha	7	5	2024	12	30	1	30	rendez-vous spirituel
+CONNAISSANCE	Aretha	11	3	2024	13	15	4	0	repas d'affaires
+CONNAISSANCE	Aretha	23	1	2024	12	0	2	45	rendez-vous spirituel
+CONNAISSANCE	Aretha	6	1	2024	15	30	0	30	rendez-vous médical
+CONNERIE	Aretha	7	7	2024	16	30	2	0	rendez-vous événementiel
+CONNERIE	Aretha	22	6	2024	9	0	1	45	repas d'affaires
+CONNERIE	Aretha	10	4	2024	14	15	1	15	rendez-vous ludique
+CONNU	Alain	0	0	0	0	0	0	0	0
+COPTERE	Elie	24	11	2024	11	0	2	30	rendez-vous spirituel
+COUCHE	Jacques	19	9	2024	15	15	0	30	présentation
+COUCHE	Jacques	22	3	2024	17	0	1	0	rendez-vous ludique
+COUVERT	Armelle	0	0	0	0	0	0	0	0
+COUVERTLE	Amhed	28	11	2024	14	45	1	0	rendez-vous humanitaire
+COUVERTLE	Amhed	12	11	2024	12	0	7	30	rendez-vous scientifique
+COUVERTLE	Amhed	13	10	2024	17	0	7	45	rendez-vous ludique
+COUVERTLE	Amhed	10	9	2024	10	30	5	30	rendez-vous amoureux
+COUVERTLE	Amhed	6	9	2024	11	30	7	0	rendez-vous d'amitié
+COUVERTLE	Amhed	28	8	2024	12	45	1	15	rendez-vous d'amitié
+COUVERTLE	Amhed	4	7	2024	8	15	3	15	rendez-vous religieux
+COUVERTURE	Armelle	17	10	2024	10	0	5	45	rendez-vous insolite
+COUVERTURE	Armelle	5	9	2024	16	30	6	15	rendez-vous sportif
+COUVERTURE	Armelle	24	8	2024	16	45	5	0	rendez-vous culturel
+COUVERTURE	Armelle	15	4	2024	9	15	4	30	projet
+COVER	Harry	4	11	2024	15	0	1	15	rendez-vous spirituel
+COVER	Harry	18	9	2024	9	45	2	30	rendez-vous insolite
+COVER	Harry	12	7	2024	12	0	0	30	rendez-vous politique
+COVER	Harry	10	4	2024	11	0	2	45	rendez-vous religieux
+CROCHE	Sarah	4	9	2024	17	45	1	45	rendez-vous scientifique
+CROCHE	Sarah	14	3	2024	12	30	2	30	rendez-vous culturel
+CROCHE	Sarah	9	3	2024	13	0	0	0	rendez-vous médical
+CROCHE	Sarah	23	1	2024	15	30	2	45	rendez-vous politique
+CRUCIFORME	Elvis	24	6	2024	13	45	0	30	rendez-vous humanitaire
+CRUCIFORME	Elvis	11	5	2024	16	0	1	0	rendez-vous technologique
+CRUCIFORME	Elvis	3	3	2024	9	15	0	15	rendez-vous événementiel
+CUELELIEU	Eva	10	11	2024	11	0	2	15	rendez-vous humanitaire
+CUELELIEU	Eva	4	6	2024	16	30	2	45	présentation
+CULE	Roland	19	9	2024	14	0	2	0	rendez-vous médical
+CULE	Roland	16	2	2024	14	0	0	0	rendez-vous ludique
+CUMABITE	Danton	7	11	2024	13	15	1	30	rendez-vous bénévole
+CUMABITE	Danton	1	5	2024	16	15	1	15	rendez-vous associatif
+CUMABITE	Danton	9	2	2024	9	15	2	30	rendez-vous ludique
+CUSSONET	Simon	18	3	2024	12	0	1	45	rendez-vous amoureux
+CUSSONETORELHEUR	Simon	3	5	2024	16	15	0	0	rendez-vous humanitaire
+DALOR	Homere	6	2	2024	9	0	1	30	rendez-vous ludique
+DALORS	Omer	21	10	2024	16	30	2	0	rendez-vous culturel
+DALORS	Omer	26	5	2024	9	45	0	15	rendez-vous scientifique
+DALORS	Omer	14	4	2024	12	45	0	30	rendez-vous scientifique
+DALORS	Omer	25	3	2024	14	15	2	15	rendez-vous familial
+DANGEREUXPERIL	Asterix	17	11	2024	15	0	0	45	projet
+DANGEREUXPERIL	Asterix	15	9	2024	10	15	1	30	réunion
+DANGEREUXPERIL	Asterix	4	8	2024	16	15	7	15	rendez-vous d'amitié
+DANGEREUXPERIL	Asterix	13	5	2024	8	30	6	45	présentation
+DANIEL	Djigaut	12	7	2024	14	15	1	15	rendez-vous ludique
+DANIEL	Djigaut	1	6	2024	10	45	1	0	repas d'affaires
+DANIEL	Djigaut	12	4	2024	13	45	2	15	réunion
+DANLAPANTE	Hercule	12	9	2024	15	30	0	0	rendez-vous artistique
+DANLMUR	Alphonse	5	9	2024	16	30	1	45	entretien
+DANLOSS	Ella	13	7	2024	10	30	0	30	rendez-vous familial
+DANLTAS	Alfonse	23	12	2024	17	45	1	45	rendez-vous politique
+DANLTAS	Alfonse	19	3	2024	12	15	1	30	rendez-vous religieux
+DANSMONVERRE	Melanie	10	8	2024	9	30	1	15	rendez-vous événementiel
+DANSTEPENSE	Julie	12	8	2024	13	45	1	30	entretien
+DASSO	Richard	3	11	2024	13	30	2	30	rendez-vous politique
+DASSO	Richard	25	5	2024	11	45	0	45	rendez-vous religieux
+DASSO	Richard	15	5	2024	15	45	0	30	projet
+DE LUNE	Claire	0	0	0	0	0	0	0	0
+DE RIRE	Amour Hire	7	3	2024	11	0	1	0	présentation
+DE RIRE	Amour Hire	19	2	2024	14	0	0	30	rendez-vous insolite
+DEBONZIEU	Ella	20	12	2024	11	15	2	0	entretien
+DEBONZIEU	Ella	7	8	2024	16	30	2	0	présentation
+DEBUTT	Marc	3	12	2024	15	30	2	30	rendez-vous scientifique
+DEBUTT	Marc	4	9	2024	13	15	1	15	rendez-vous d'amitié
+DECENDRE	Rene	28	6	2024	9	30	0	30	rendez-vous sportif
+DECLASSE	Emmanuelle	22	1	2024	17	30	2	0	rendez-vous religieux
+DECONFITURE	Severine	28	9	2024	17	45	0	0	entretien
+DECONFITURE	Severine	8	9	2024	10	45	0	15	rendez-vous d'amitié
+DECONFITURE	Severine	17	7	2024	17	45	0	0	rendez-vous religieux
+DEDANECHIRACOTE	Apiss	4	12	2024	10	45	0	15	présentation
+DEDANECHIRACOTE	Apiss	5	10	2024	11	30	2	45	rendez-vous familial
+DEDANECHIRACOTE	Apiss	21	5	2024	9	15	2	45	projet
+DEDESSSOUS	Sandra	5	11	2024	13	30	0	45	rendez-vous politique
+DEDESSSOUS	Sandra	6	10	2024	14	15	2	0	rendez-vous d'amitié
+DEDESSSOUS	Sandra	5	4	2024	10	45	0	15	présentation
+DEDIEU	Clemence	0	0	0	0	0	0	0	0
+DEFESSE	Ray	17	6	2024	10	30	1	30	repas d'affaires
+DEFESSE	Ray	3	3	2024	15	45	1	30	rendez-vous artistique
+DEFONDOUZE	Candice	26	11	2024	15	45	2	0	rendez-vous religieux
+DEFONDOUZE	Candice	6	10	2024	9	0	1	0	rendez-vous artistique
+DEFONDOUZE	Candice	25	9	2024	12	15	4	45	rendez-vous associatif
+DEFONDOUZE	Candice	12	2	2024	16	45	5	30	rendez-vous humanitaire
+DEGOUT	Barbara	0	0	0	0	0	0	0	0
+DEGOUT	Roland	21	12	2024	17	15	1	45	rendez-vous culturel
+DEGOUT	Roland	11	9	2024	16	30	1	0	rendez-vous scientifique
+DEGOUT	Roland	25	2	2024	9	15	0	15	rendez-vous médical
+DEGOUTANT	Barbara	17	9	2024	15	30	0	0	repas d'affaires
+DEGOUTANT	Barbara	26	7	2024	8	15	1	15	rendez-vous spirituel
+DEGOUTANT	Barbara	16	1	2024	15	0	7	45	rendez-vous médical
+DEHORS	Igor	16	11	2024	13	45	1	30	rendez-vous insolite
+DEHORS	Igor	27	6	2024	17	45	1	45	projet
+DEJEU	Bernadette	14	3	2024	17	45	1	15	rendez-vous bénévole
+DELASALLE	Yves	25	7	2024	9	0	0	0	rendez-vous insolite
+DELASALLE	Yves	6	6	2024	17	15	0	0	rendez-vous artistique
+DELEGUM	Julienne	0	0	0	0	0	0	0	0
+DELION	Dan	14	1	2024	13	15	0	45	rendez-vous humanitaire
+DELIT	Sandra	27	12	2024	17	30	2	0	rendez-vous bénévole
+DELIT	Sandra	3	2	2024	11	0	1	30	réunion
+DEMESSE	Michel	10	4	2024	16	15	2	30	rendez-vous médical
+DEMESSE	Olive	17	7	2024	14	45	2	45	rendez-vous événementiel
+DEMESSE	Olive	23	3	2024	12	0	0	45	rendez-vous d'amitié
+DEMICHELIN	Guy	4	11	2024	11	0	2	0	rendez-vous spirituel
+DEMICHELIN	Guy	28	2	2024	17	0	2	0	rendez-vous artistique
+DENLEDO	Geoffroy	4	12	2024	12	30	1	0	rendez-vous humanitaire
+DEPINBEURRE	Martine	5	8	2024	17	45	0	30	rendez-vous associatif
+DEPINBEURRE	Martine	5	2	2024	16	15	2	30	rendez-vous religieux
+DEPINBEURRE	Martine	27	1	2024	10	45	2	30	rendez-vous culturel
+DEPOINT	Marc	28	7	2024	11	30	2	0	repas d'affaires
+DEPOINT	Marc	25	7	2024	13	15	1	15	rendez-vous artistique
+DEPOINT	Marc	1	5	2024	12	15	1	0	entretien
+DERAY	Odile	26	7	2024	11	30	2	0	rendez-vous religieux
+DESARTISTE	Andre	22	7	2024	14	0	0	0	rendez-vous familial
+DESARTISTE	Andre	2	7	2024	17	45	1	30	rendez-vous bénévole
+DESARTISTE	Andre	18	5	2024	11	0	7	0	rendez-vous spirituel
+DESARTISTE	Andre	12	5	2024	8	45	4	45	présentation
+DESARTISTE	Andre	7	4	2024	12	15	8	15	entretien
+DESAUVETAGE	Gilles	22	12	2024	17	15	0	30	rendez-vous culturel
+DESAUVETAGE	Gilles	21	11	2024	14	15	1	0	rendez-vous insolite
+DESAUVETAGE	Gilles	6	5	2024	11	15	2	30	rendez-vous artistique
+DESAUVETAGE	Gilles	20	3	2024	12	0	2	45	rendez-vous événementiel
+DESAVOIE	Tom	0	0	0	0	0	0	0	0
+DESIGN	Blanche	17	9	2024	15	45	2	0	rendez-vous culturel
+DESIGN	Blanche	4	8	2024	16	15	0	0	rendez-vous amoureux
+DESMUGUETS	Ivan	0	0	0	0	0	0	0	0
+DEUX	Jean-Marie	12	11	2024	11	30	2	30	rendez-vous technologique
+DEUX	Jean-Marie	17	6	2024	17	45	2	0	rendez-vous familial
+DEUX	Jean-Marie	5	6	2024	12	0	2	45	rendez-vous bénévole
+DEUX	Jean-Marie	2	5	2024	11	0	2	45	entretien
+DEUX	Jean-Marie	17	3	2024	14	0	2	15	rendez-vous artistique
+DEVAULT	Marjorie	0	0	0	0	0	0	0	0
+DEVENT	Rose	16	10	2024	17	45	0	45	réunion
+DEVENT	Rose	10	7	2024	15	0	0	0	rendez-vous amoureux
+DEZARTISTE	Andre	18	5	2024	13	0	1	15	rendez-vous familial
+DEZARTISTE	Andre	6	5	2024	10	45	0	30	rendez-vous humanitaire
+DEZARTISTE	Andre	15	3	2024	16	0	2	45	rendez-vous scientifique
+DEZARTISTE	Andre	11	3	2024	11	0	2	45	rendez-vous scientifique
+DI	Amar	17	11	2024	17	30	0	45	rendez-vous associatif
+DI	Amar	28	8	2024	11	30	0	0	rendez-vous religieux
+DI	Amar	15	5	2024	9	45	0	30	repas d'affaires
+DI	Amar	27	3	2024	16	15	1	45	rendez-vous sportif
+DICOMAIRE	Amar	4	12	2024	14	0	5	0	rendez-vous événementiel
+DICOMAIRE	Amar	24	11	2024	17	15	5	30	réunion
+DICOMAIRE	Amar	16	10	2024	17	45	0	0	repas d'affaires
+DICOMAIRE	Amar	16	10	2024	16	30	7	45	rendez-vous événementiel
+DICOMAIRE	Amar	1	10	2024	10	15	4	30	réunion
+DICULE	Terry	8	12	2024	14	30	2	45	rendez-vous événementiel
+DICULE	Terry	24	6	2024	13	30	2	45	rendez-vous humanitaire
+DICULE	Terry	28	5	2024	14	15	0	30	rendez-vous scientifique
+DICULE	Terry	26	5	2024	15	15	0	45	présentation
+DIGERE	Djamal	1	9	2024	14	45	1	15	rendez-vous humanitaire
+DIOSSI	Daisy	0	0	0	0	0	0	0	0
+DIOSSI	Kelly	5	12	2024	14	15	0	15	rendez-vous artistique
+DIOTE	Kelly	27	11	2024	14	15	0	15	rendez-vous insolite
+DIOTE	Kelly	8	8	2024	14	30	1	0	rendez-vous politique
+DIOTE	Kelly	7	7	2024	11	45	2	30	rendez-vous ludique
+DIT	Leon	13	3	2024	14	30	1	0	rendez-vous bénévole
+DITEE	Lucie	24	12	2024	10	15	1	15	rendez-vous insolite
+DITEE	Lucie	23	7	2024	9	0	0	0	rendez-vous médical
+DMALPLACE	Daisy	8	6	2024	14	30	2	30	rendez-vous événementiel
+DMALPLACE	Daisy	21	5	2024	13	45	0	45	rendez-vous spirituel
+DMEPASSA	Jeanne	0	0	0	0	0	0	0	0
+DOMBALLE	Pierre	0	0	0	0	0	0	0	0
+DONDECOURSE	Guy	3	11	2024	16	0	0	15	rendez-vous artistique
+DONDECOURSE	Guy	7	1	2024	9	0	2	45	repas d'affaires
+DONMARCEL	Eddy	22	9	2024	14	30	1	30	rendez-vous scientifique
+DONMARCEL	Eddy	19	4	2024	9	15	1	15	rendez-vous associatif
+DONMARCEL	Eddy	15	1	2024	10	30	1	45	rendez-vous familial
+DORMI	Djamal	0	0	0	0	0	0	0	0
+DORSA	Elsa	3	11	2024	15	45	2	0	rendez-vous ludique
+DORSA	Elsa	12	5	2024	9	0	1	15	présentation
+DORSA	Elsa	12	3	2024	14	45	1	45	rendez-vous politique
+DORT	Louis	1	7	2024	13	15	1	15	rendez-vous religieux
+DORT	Louis	27	5	2024	14	0	2	0	rendez-vous religieux
+DORT	Louis	1	2	2024	9	30	0	15	rendez-vous d'amitié
+DRATE	Daisy	21	5	2024	11	45	1	45	rendez-vous insolite
+DRATE	Daisy	4	4	2024	10	0	0	30	rendez-vous événementiel
+DRATE	Daisy	21	3	2024	15	0	1	30	entretien
+DUBOIS	Yvan	6	6	2024	17	45	1	30	projet
+DUBOIS	Yvan	7	1	2024	14	15	1	0	rendez-vous spirituel
+DUFF	John	0	0	0	0	0	0	0	0
+DUMONDAUBALCON	Helena	11	8	2024	16	15	1	45	rendez-vous politique
+DURE	Laure	16	9	2024	11	30	0	30	rendez-vous spirituel
+DURINE	Anna-Lise	16	7	2024	10	0	1	30	repas d'affaires
+DURINE	Anna-Lise	8	5	2024	17	0	1	15	rendez-vous technologique
+DURINE	Anna-Lise	15	4	2024	9	0	2	45	rendez-vous amoureux
+DUSTRIEL	Firmin	26	9	2024	11	0	2	30	rendez-vous amoureux
+DUTRIBUNAL	Clemence	24	11	2024	14	45	2	45	réunion
+DUTRIBUNAL	Clemence	15	9	2024	11	15	2	15	rendez-vous bénévole
+DUTRIBUNAL	Clemence	11	4	2024	13	15	2	0	rendez-vous associatif
+DUTRIBUNAL	Clemence	4	1	2024	16	15	1	45	rendez-vous insolite
+EATS	Hubert	4	12	2024	9	30	1	15	rendez-vous bénévole
+EAUHA	Aline	22	12	2024	16	45	4	0	réunion
+EAUHA	Aline	6	12	2024	8	30	1	45	présentation
+EAUHA	Aline	1	11	2024	8	45	5	15	rendez-vous sportif
+EAUHA	Aline	18	10	2024	9	0	7	45	rendez-vous familial
+EAUHA	Aline	19	6	2024	8	0	0	45	rendez-vous insolite
+EAUHA	Aline	9	6	2024	16	15	6	30	rendez-vous d'amitié
+EAUHA	Aline	23	5	2024	17	45	7	0	entretien
+EBON	Sylvain	10	10	2024	16	30	1	45	rendez-vous bénévole
+EBON	Sylvain	8	5	2024	16	30	0	30	rendez-vous religieux
+ECASSE	Jeanne	24	11	2024	11	30	0	45	rendez-vous associatif
+ECASSE	Jeanne	9	9	2024	14	45	2	15	rendez-vous amoureux
+ECASSE	Jeanne	20	5	2024	13	30	1	30	rendez-vous sportif
+ECASSE	Jeanne	8	4	2024	17	0	1	15	projet
+ECLOVIS	Omar	13	12	2024	16	45	2	45	rendez-vous technologique
+ECLOVIS	Omar	5	11	2024	11	15	2	15	rendez-vous médical
+EDEU	Jean	0	0	0	0	0	0	0	0
+EDUBOIS	Laure	23	11	2024	10	45	1	15	rendez-vous artistique
+EDUBOIS	Laure	2	6	2024	10	0	1	15	rendez-vous religieux
+EGERIE	Tom	15	9	2024	10	15	0	15	rendez-vous événementiel
+EGERIE	Tom	21	8	2024	12	30	1	45	réunion
+EGERIE	Tom	9	3	2024	14	30	2	0	repas d'affaires
+EGERIE	Tom	1	3	2024	11	0	2	30	rendez-vous politique
+EHA	Aline	26	7	2024	17	45	2	45	rendez-vous familial
+EHA	Aline	11	1	2024	13	15	1	15	rendez-vous artistique
+EHENVUMIL	Jean	24	9	2024	13	30	0	15	rendez-vous familial
+EHENVUMIL	Jean	21	7	2024	17	0	2	15	rendez-vous familial
+EHENVUMIL	Jean	5	3	2024	13	0	0	30	rendez-vous médical
+EHONTLOBE	Theophile	11	10	2024	10	30	0	45	rendez-vous bénévole
+EJUDAS BRICOT	Juda Nanasse	0	0	0	0	0	0	0	0
+EJUDAS	Juda Nanasse	19	10	2024	17	30	4	0	rendez-vous événementiel
+EJUDAS	Juda Nanasse	19	8	2024	13	30	4	30	rendez-vous insolite
+EJUDAS	Juda Nanasse	7	5	2024	16	30	3	0	projet
+ELHeader	Marthe	26	12	2024	16	30	1	0	projet
+ELHeader	Marthe	11	9	2024	10	30	0	45	entretien
+ELHeader	Marthe	7	7	2024	10	0	1	0	rendez-vous technologique
+ELHeader	Marthe	28	6	2024	17	0	2	0	entretien
+ELHeader	Marthe	17	4	2024	13	30	0	30	rendez-vous insolite
+ELHeader	Marthe	1	4	2024	9	30	1	30	entretien
+EMAIREDESURETE	Prudence	9	11	2024	16	15	1	0	présentation
+EMAIREDESURETE	Prudence	3	8	2024	12	0	0	15	entretien
+EMAIREDESURETE	Prudence	10	7	2024	14	30	2	15	rendez-vous sportif
+EMAIREDESURETE	Prudence	25	2	2024	16	0	1	0	repas d'affaires
+EMARRE	Jean	1	10	2024	16	30	1	45	rendez-vous amoureux
+EMBETTE	Akim	7	8	2024	13	15	2	30	rendez-vous familial
+EMBETTE	Akim	16	7	2024	11	0	2	0	entretien
+EMBETTE	Akim	8	5	2024	17	30	2	15	rendez-vous événementiel
+EMBETTE	Akim	13	4	2024	9	45	2	15	repas d'affaires
+EMICK	Paul	21	4	2024	10	45	1	45	projet
+EMICK	Paul	23	3	2024	16	15	2	45	rendez-vous médical
+EMICK	Paul	3	3	2024	14	30	0	30	rendez-vous spirituel
+EMMAUS	Mick	16	11	2024	17	30	0	30	rendez-vous spirituel
+EMMAUS	Mick	5	10	2024	15	0	2	15	rendez-vous politique
+EMMAUS	Mick	23	9	2024	15	15	2	45	repas d'affaires
+EMMAUS	Mick	20	8	2024	14	30	1	15	présentation
+EMMAUS	Mick	11	1	2024	9	15	0	15	réunion
+EMOI	Elise	7	8	2024	13	45	2	15	rendez-vous d'amitié
+EMOI	Elise	1	8	2024	14	15	1	30	rendez-vous sportif
+EMOI	Elise	15	5	2024	16	15	1	15	rendez-vous religieux
+EMOI	Elise	18	1	2024	9	45	0	30	rendez-vous ludique
+ENBAVE	Yvon	23	3	2024	13	45	2	30	repas d'affaires
+ENCIEUX	Cecile	3	11	2024	16	15	2	30	repas d'affaires
+ENCIEUX	Cecile	28	6	2024	11	0	2	15	entretien
+ENCIIEUX	Cecile	25	10	2024	14	15	6	0	rendez-vous insolite
+ENCORASOMMLE	Sylvie	0	0	0	0	0	0	0	0
+ENCOSTUME	Thibault	21	4	2024	17	0	0	15	rendez-vous bénévole
+ENPERTE	Melusine	24	5	2024	12	30	0	45	rendez-vous événementiel
+EPAHINTERESSE	Gael	19	9	2024	9	45	0	15	rendez-vous événementiel
+EPAN	Ahmed	3	11	2024	17	45	1	45	rendez-vous ludique
+EPAN	Ahmed	1	10	2024	11	0	1	0	présentation
+EPATRISTE	Cyrielle	19	7	2024	16	45	2	15	réunion
+EPATRISTE	Cyrielle	26	5	2024	13	15	2	30	rendez-vous médical
+EPATRISTE	Cyrielle	26	1	2024	17	30	1	0	rendez-vous spirituel
+EPAULE	Pierre	16	7	2024	14	30	2	0	réunion
+EPAULE	Pierre	22	6	2024	11	0	2	45	rendez-vous insolite
+EPAULE	Pierre	19	6	2024	12	45	2	45	rendez-vous artistique
+EPERIL	Asterix	8	11	2024	11	45	0	30	rendez-vous familial
+EPERIL	Asterix	20	10	2024	13	30	1	15	rendez-vous d'amitié
+ERATEUR	Maude	0	0	0	0	0	0	0	0
+ERE	Axel	18	8	2024	11	0	0	0	présentation
+ERE	Axel	9	5	2024	12	45	2	15	rendez-vous associatif
+ERE	Axel	10	1	2024	14	15	1	15	rendez-vous technologique
+ERGEBELLE	Octave	17	12	2024	16	0	2	45	rendez-vous culturel
+ERGEBELLE	Octave	6	8	2024	14	30	2	45	rendez-vous humanitaire
+ERIC	Hesotte	27	4	2024	16	45	0	0	rendez-vous culturel
+ESSANIMAGE	Samson	14	5	2024	12	45	2	15	rendez-vous bénévole
+ESSANIMAGE	Samson	6	4	2024	17	15	2	45	rendez-vous bénévole
+ESSANIMAGE	Samson	21	3	2024	13	0	1	15	rendez-vous humanitaire
+ETDEFONDOUZE	Candice	5	8	2024	12	15	2	45	rendez-vous scientifique
+ETDEFONDOUZE	Candice	9	3	2024	10	30	0	30	rendez-vous associatif
+ETIRE	Sylvain	0	0	0	0	0	0	0	0
+ETJACQUEKULE	Yvon	3	11	2024	9	30	2	30	entretien
+ETJACQUEKULE	Yvon	24	9	2024	9	30	1	0	rendez-vous insolite
+ETJACQUEKULE	Yvon	20	7	2024	16	30	2	15	entretien
+ETJACQUEKULE	Yvon	5	7	2024	15	15	0	30	entretien
+ETJACQUEKULE	Yvon	15	6	2024	12	0	1	0	réunion
+ETRAIN	Micheline	2	7	2024	11	15	0	15	réunion
+EUGENE	Sam	6	11	2024	13	45	1	45	entretien
+EUGENE	Sam	26	1	2024	13	45	2	45	présentation
+EULURE	Solange	16	12	2024	15	0	0	0	rendez-vous insolite
+EULURE	Solange	4	10	2024	13	0	2	0	rendez-vous amoureux
+EULURE	Solange	19	3	2024	12	15	0	0	réunion
+EVITABLE	Celine	26	12	2024	12	45	1	30	rendez-vous spirituel
+EVITABLE	Celine	20	12	2024	13	30	1	15	rendez-vous d'amitié
+EVITABLE	Celine	4	7	2024	17	15	0	45	rendez-vous événementiel
+EVITABLE	Line	24	6	2024	17	15	1	45	rendez-vous scientifique
+EVITABLY	Celine	20	11	2024	15	30	4	15	repas d'affaires
+EVITABLY	Celine	20	8	2024	15	30	4	45	rendez-vous familial
+EVITABLY	Celine	8	6	2024	10	30	8	45	rendez-vous amoureux
+EVITABLY	Celine	15	3	2024	14	45	1	30	rendez-vous spirituel
+EXTERIEUR	Alex	13	9	2024	8	30	0	30	rendez-vous ludique
+EXTERIEUR	Alex	7	6	2024	10	30	2	15	rendez-vous spirituel
+EYENCOIN	Laure	4	12	2024	14	45	0	45	rendez-vous associatif
+EYENCOIN	Laure	7	11	2024	9	30	2	15	rendez-vous technologique
+EYENCOIN	Laure	6	1	2024	9	45	1	45	rendez-vous médical
+EZEFOR	Alfred	22	6	2024	15	0	0	45	rendez-vous bénévole
+EZEFOR	Alfred	2	5	2024	13	15	0	45	rendez-vous religieux
+FAIT	Gaspard	17	7	2024	10	0	1	30	rendez-vous familial
+FAIT	Gaspard	10	6	2024	12	0	0	15	rendez-vous culturel
+FAIT	Gaspard	6	6	2024	12	0	0	45	rendez-vous sportif
+FAIT	Gaspard	9	5	2024	14	45	0	15	rendez-vous humanitaire
+FASOL	Remy	0	0	0	0	0	0	0	0
+FEBIENLECHOSE	Lazare	26	9	2024	17	45	2	15	projet
+FER	Lucie	27	12	2024	9	45	0	45	rendez-vous humanitaire
+FER	Lucie	26	3	2024	11	30	1	30	réunion
+FERMLAPORTE	Angele	18	6	2024	17	15	0	0	rendez-vous associatif
+FERRANCE	Sandy	23	10	2024	17	30	1	30	rendez-vous associatif
+FERRANCE	Sandy	16	3	2024	11	30	1	30	repas d'affaires
+FERRANCE	Sandy	28	1	2024	12	45	0	30	rendez-vous d'amitié
+FIANT	Lenny	0	0	0	0	0	0	0	0
+FICE	Lorie	20	9	2024	11	45	0	45	rendez-vous bénévole
+FICE	Lorie	8	5	2024	9	0	0	30	rendez-vous événementiel
+FICE	Lorie	24	4	2024	9	30	0	30	rendez-vous politique
+FICE	Lory	23	12	2024	12	30	1	15	rendez-vous médical
+FICE	Lory	24	11	2024	12	45	1	30	rendez-vous scientifique
+FICE	Lory	3	10	2024	13	0	0	45	rendez-vous événementiel
+FILS	Edmond	5	7	2024	15	30	0	0	rendez-vous humanitaire
+FLAGE	Percy	25	6	2024	15	45	2	0	rendez-vous ludique
+FLAGE	Percy	5	3	2024	14	0	1	15	rendez-vous artistique
+FOCALIQUE	Al	14	12	2024	16	15	8	15	rendez-vous scientifique
+FOCALIQUE	Al	11	9	2024	11	45	7	30	rendez-vous sportif
+FOCALIQUE	Al	14	8	2024	16	30	6	30	présentation
+FOCALIQUE	Al	24	6	2024	15	15	2	30	réunion
+FOCALIQUE	Al	20	6	2024	10	0	7	45	repas d'affaires
+FORCEZEFOR	Alfred	5	12	2024	14	0	6	30	rendez-vous politique
+FORCEZEFOR	Alfred	25	5	2024	17	30	4	0	rendez-vous humanitaire
+FORCEZEFOR	Alfred	28	3	2024	14	45	2	0	rendez-vous scientifique
+FORCEZEFOR	Alfred	23	3	2024	10	45	5	45	réunion
+FRAISEOTTO	Charles	24	9	2024	14	15	0	45	rendez-vous événementiel
+FRAISEOTTO	Charles	22	8	2024	12	0	8	15	rendez-vous médical
+FRAISEOTTO	Charles	3	5	2024	13	0	8	45	rendez-vous culturel
+FRECHI	Sarah	17	12	2024	13	15	0	30	réunion
+FRECHI	Sarah	13	11	2024	9	45	1	30	projet
+FRECHI	Sarah	10	8	2024	9	0	0	45	rendez-vous humanitaire
+FRECHI	Sarah	4	8	2024	13	0	0	45	rendez-vous insolite
+FRECHI	Sarah	3	4	2024	16	30	0	0	rendez-vous médical
+FRECHI	Sarah	19	2	2024	10	15	1	15	rendez-vous familial
+FRIGO	Romeo	19	8	2024	14	0	0	0	entretien
+FRIGO	Romeo	6	7	2024	9	15	2	45	rendez-vous spirituel
+FRIGO	Romeo	13	2	2024	11	30	0	15	rendez-vous scientifique
+GATORE	Ali	18	10	2024	15	45	1	30	rendez-vous religieux
+GATORE	Ali	21	9	2024	9	15	0	0	rendez-vous politique
+GATORE	Ali	11	8	2024	10	15	1	15	rendez-vous sportif
+GATORE	Ali	23	4	2024	13	30	2	15	rendez-vous humanitaire
+GELEY	Ima	23	11	2024	17	30	1	30	rendez-vous scientifique
+GELEY	Ima	24	3	2024	17	15	1	15	rendez-vous spirituel
+GELEY	Ima	6	1	2024	15	45	1	15	rendez-vous politique
+GENDARMERIT	Quentin	10	5	2024	12	15	0	0	rendez-vous ludique
+GINA	Laurent	13	11	2024	9	15	2	30	rendez-vous politique
+GINA	Laurent	25	8	2024	9	15	2	0	rendez-vous technologique
+GINETTE	Laurent	24	2	2024	15	30	2	30	rendez-vous artistique
+GINGRAS	Yoland	0	0	0	0	0	0	0	0
+GLACE	Brice	9	2	2024	14	30	2	30	rendez-vous technologique
+GLACIAL	Brice	25	10	2024	10	0	8	30	rendez-vous familial
+GLIER	Hassan	9	9	2024	17	15	2	0	rendez-vous familial
+GOCHE	Elvira	10	8	2024	10	30	2	30	rendez-vous technologique
+GOCHE	Elvira	3	6	2024	12	15	1	0	rendez-vous sportif
+GOLADE	Larry	14	1	2024	15	0	1	15	rendez-vous amoureux
+GOLE	Henri	8	8	2024	9	0	2	15	rendez-vous politique
+GOLO	Thierry	23	8	2024	14	0	0	0	rendez-vous d'amitié
+GOLO	Thierry	2	1	2024	14	15	1	0	rendez-vous politique
+GONZOLA	Igor	23	10	2024	11	0	2	45	rendez-vous associatif
+GONZOLA	Igor	19	8	2024	17	45	2	0	rendez-vous médical
+GOUTPTIT	Anne-Corinne	19	12	2024	12	30	1	30	présentation
+GOUTPTIT	Anne-Corinne	1	9	2024	8	15	4	15	rendez-vous familial
+GOUTPTIT	Anne-Corinne	3	8	2024	9	30	0	0	rendez-vous ludique
+GOUTPTIT	Anne-Corinne	22	5	2024	14	15	6	30	rendez-vous d'amitié
+GOUTPTIT	Anne-Corinne	28	3	2024	8	15	4	0	rendez-vous ludique
+GOUTPTIT	Anne-Corinne	19	1	2024	13	15	7	30	rendez-vous politique
+GOUTPTIT	Anne-Corinne	9	1	2024	13	0	5	45	rendez-vous bénévole
+GRAF	Otto	0	0	0	0	0	0	0	0
+GRATTE	Sam	9	12	2024	9	0	1	0	rendez-vous technologique
+GRATTE	Sam	12	9	2024	16	45	1	30	rendez-vous culturel
+GRATTE	Sam	2	6	2024	17	30	1	0	rendez-vous ludique
+GREC	Edmond	0	0	0	0	0	0	0	0
+GROIDENMABAIGNOIRE	Gedeon	21	11	2024	14	0	0	30	rendez-vous familial
+GROIDENMABAIGNOIRE	Gedeon	4	6	2024	12	15	0	45	rendez-vous familial
+HABA	Bart	8	6	2024	9	30	1	0	rendez-vous familial
+HABA	Bart	23	3	2024	15	30	0	30	rendez-vous politique
+HABACUC	Bart	4	8	2024	10	15	7	30	rendez-vous médical
+HABACUC	Bart	17	7	2024	11	30	1	0	rendez-vous scientifique
+HABACUC	Bart	11	7	2024	16	0	0	45	rendez-vous sportif
+HABACUC	Bart	26	6	2024	15	15	4	0	rendez-vous d'amitié
+HABACUC	Bart	26	6	2024	12	15	7	45	présentation
+HABACUC	Bart	23	5	2024	14	0	4	0	projet
+HABACUC	Bart	3	5	2024	8	15	3	0	rendez-vous d'amitié
+HABACUC	Bart	23	4	2024	16	45	7	30	réunion
+HABACUC	Bart	27	3	2024	17	45	7	15	rendez-vous familial
+HABACUC	Bart	14	3	2024	15	0	8	15	rendez-vous scientifique
+HABACUC	Bart	26	1	2024	16	15	8	15	rendez-vous humanitaire
+HAGINE	Tim	0	0	0	0	0	0	0	0
+HAIDESOVETAJ	Gilles	24	11	2024	14	15	2	15	rendez-vous spirituel
+HAIDESOVETAJ	Gilles	12	7	2024	9	45	0	30	rendez-vous culturel
+HAIDESOVETAJ	Gilles	13	4	2024	17	45	2	15	rendez-vous médical
+HAIMONGRINDSEL	Jim	0	0	0	0	0	0	0	0
+HALLE	Anne	22	7	2024	12	0	2	15	rendez-vous associatif
+HALLE	Anne	16	4	2024	16	45	2	15	rendez-vous technologique
+HALLE	Anne	28	2	2024	12	15	0	30	repas d'affaires
+HALTELA	Anne	7	9	2024	11	45	2	45	présentation
+HALTELA	Anne	2	7	2024	12	0	3	15	rendez-vous religieux
+HALTELA	Anne	3	5	2024	12	0	5	0	repas d'affaires
+HALTELA	Anne	23	4	2024	16	0	6	45	rendez-vous amoureux
+HALTELA	Anne	25	1	2024	15	15	5	45	entretien
+HANIEN	Rod	5	9	2024	15	0	1	30	présentation
+HANIEN	Rod	5	6	2024	12	15	1	45	rendez-vous événementiel
+HANIEN	Rod	10	4	2024	14	0	0	30	rendez-vous spirituel
+HANIEN	Rod	26	3	2024	16	0	2	30	repas d'affaires
+HANNIBAL	Farid	26	12	2024	15	15	2	0	présentation
+HANNIBAL	Farid	27	6	2024	12	15	1	15	rendez-vous religieux
+HANNIBAL	Farid	3	6	2024	16	30	0	30	rendez-vous spirituel
+HARTYNN	Burt	10	11	2024	11	15	4	0	projet
+HARTYNN	Burt	12	10	2024	14	0	7	30	rendez-vous religieux
+HARTYNN	Burt	15	7	2024	14	0	7	0	rendez-vous associatif
+HARTYNN	Burt	7	5	2024	9	15	7	0	rendez-vous insolite
+HARTYNN	Burt	11	3	2024	9	0	6	0	rendez-vous d'amitié
+HARTYNN	Burt	5	3	2024	15	45	5	15	rendez-vous associatif
+HARTYNN	Burt	28	2	2024	16	15	0	15	rendez-vous humanitaire
+HARTYNN	Burt	9	2	2024	8	45	3	45	rendez-vous artistique
+HARTYNN	Burt	20	1	2024	16	30	3	0	rendez-vous événementiel
+HATARTYNN	Burt	12	11	2024	11	15	0	30	rendez-vous d'amitié
+HATARTYNN	Burt	5	6	2024	13	15	1	30	présentation
+HATMOILARATE	Odile	0	0	0	0	0	0	0	0
+HATTERAHL	Bill	0	0	0	0	0	0	0	0
+HATTERAHLL	Bill	9	9	2024	12	15	8	30	rendez-vous sportif
+HATTERAHLL	Bill	26	7	2024	13	15	7	15	rendez-vous associatif
+HAWACK	Tom	23	10	2024	13	45	1	30	rendez-vous scientifique
+HAWACK	Tom	11	8	2024	17	45	2	0	rendez-vous amoureux
+HEALE	Perrine	11	10	2024	12	15	2	30	rendez-vous ludique
+HEALE	Perrine	17	8	2024	10	30	2	15	rendez-vous bénévole
+HEANTIE	Anne	24	11	2024	12	30	2	0	entretien
+HEANTIE	Anne	5	9	2024	13	15	1	0	rendez-vous politique
+HEBUSSAVABIEN	Aude	0	0	0	0	0	0	0	0
+HEILLEDESSENCE	Eve	19	4	2024	9	0	0	30	projet
+HEMIQUE	Paul	10	10	2024	9	0	0	45	présentation
+HEMIQUE	Paul	19	7	2024	16	45	0	15	projet
+HEMIQUE	Paul	22	6	2024	17	30	1	45	rendez-vous ludique
+HEMIQUE	Paul	28	2	2024	9	30	1	30	rendez-vous sportif
+HENCOR	Henri	3	11	2024	12	15	2	0	rendez-vous d'amitié
+HENCOR	Henri	21	6	2024	12	15	2	30	rendez-vous d'amitié
+HENCOR	Henri	2	4	2024	10	15	1	15	rendez-vous culturel
+HENETTE	Claire	13	4	2024	11	15	0	15	rendez-vous artistique
+HENETTE	Claire	22	2	2024	12	0	1	0	rendez-vous culturel
+HEPIPIOLI	Jeff	8	1	2024	16	15	0	15	rendez-vous religieux
+HERON	Yves	0	0	0	0	0	0	0	0
+HEURE	Axel	19	12	2024	13	30	8	30	réunion
+HEURE	Axel	20	10	2024	8	45	1	45	rendez-vous sportif
+HEURE	Axel	14	10	2024	13	0	8	0	rendez-vous scientifique
+HEURE	Axel	6	10	2024	11	45	5	0	rendez-vous politique
+HEURE	Axel	12	7	2024	10	15	1	0	rendez-vous bénévole
+HEURE	Axel	6	7	2024	17	45	6	45	réunion
+HEURE	Axel	15	4	2024	12	15	6	0	présentation
+HEURE	Axel	4	3	2024	12	15	0	0	rendez-vous religieux
+HEUREUX	Marie-Ange	10	11	2024	11	0	0	15	rendez-vous scientifique
+HEUREUX	Marie-Ange	6	4	2024	14	0	2	30	rendez-vous scientifique
+HEUREUX	Marie-Ange	22	2	2024	15	30	0	45	rendez-vous sportif
+HIBULAIRE	Pat	18	8	2024	9	15	2	0	rendez-vous médical
+HIC	Hyppolite	2	3	2024	15	30	1	30	rendez-vous bénévole
+HIQUE	Cyril	7	7	2024	11	45	1	45	rendez-vous scientifique
+HIREDERIRE	Amour	28	11	2024	10	45	7	15	rendez-vous associatif
+HIREDERIRE	Amour	9	11	2024	9	0	4	15	rendez-vous amoureux
+HIREDERIRE	Amour	3	9	2024	15	15	2	45	rendez-vous bénévole
+HIREDERIRE	Amour	20	7	2024	17	45	0	45	rendez-vous politique
+HIREDERIRE	Amour	3	7	2024	11	30	0	0	rendez-vous humanitaire
+HIREDERIRE	Amour	20	5	2024	10	0	1	30	rendez-vous insolite
+HIREDERIRE	Amour	7	5	2024	8	30	5	30	rendez-vous sportif
+HIREDERIRE	Amour	4	5	2024	16	45	8	0	entretien
+HIREDERIRE	Amour	13	4	2024	14	30	0	15	réunion
+HIREDERIRE	Amour	5	2	2024	9	45	7	45	rendez-vous médical
+HIREDERIRE	Amour	2	2	2024	9	30	3	45	rendez-vous médical
+HISCH	Khan	18	10	2024	10	45	1	45	rendez-vous événementiel
+HISCH	Khan	28	8	2024	17	45	0	0	rendez-vous médical
+HISCH	Khan	1	2	2024	9	30	2	45	rendez-vous familial
+HITE	Paterne	0	0	0	0	0	0	0	0
+HO	Bob	20	5	2024	10	30	2	30	rendez-vous d'amitié
+HO	Bob	12	4	2024	12	0	0	0	rendez-vous humanitaire
+HOCHET	Eric	21	8	2024	12	0	0	30	rendez-vous événementiel
+HOCHET	Eric	22	7	2024	13	45	0	15	rendez-vous associatif
+HON	Cecile	5	12	2024	15	45	0	45	rendez-vous spirituel
+HON	Cecile	7	7	2024	9	15	2	0	rendez-vous médical
+HON	Cecile	18	3	2024	16	0	1	45	rendez-vous familial
+HON	Cecile	25	1	2024	12	15	0	30	rendez-vous culturel
+HONEY	Cecile	6	11	2024	15	15	6	30	rendez-vous artistique
+HONEY	Cecile	9	10	2024	11	45	1	45	rendez-vous associatif
+HONEY	Cecile	28	8	2024	8	0	5	15	rendez-vous humanitaire
+HONEY	Cecile	21	8	2024	8	30	2	0	rendez-vous culturel
+HONEY	Cecile	24	7	2024	12	0	4	0	rendez-vous artistique
+HONEY	Cecile	1	4	2024	16	30	1	30	rendez-vous culturel
+HONOTTA	Bob	20	11	2024	10	30	3	45	rendez-vous culturel
+HONOTTA	Bob	27	8	2024	12	30	8	15	rendez-vous d'amitié
+HONOTTA	Bob	22	5	2024	15	0	0	45	rendez-vous artistique
+HOROUGE	Elvire	12	10	2024	13	0	2	0	rendez-vous insolite
+HOROUGE	Elvire	12	8	2024	13	45	0	0	rendez-vous d'amitié
+HOROUGE	Elvire	28	4	2024	12	15	2	0	rendez-vous bénévole
+HOROUGE	Elvire	18	2	2024	14	30	1	0	rendez-vous amoureux
+HOROUGE	Elvire	6	2	2024	14	15	2	15	rendez-vous médical
+HORRIS	Clint	12	9	2024	12	45	0	45	rendez-vous technologique
+HORRIS	Clint	8	9	2024	9	15	1	0	entretien
+HORRIS	Clint	1	9	2024	9	30	2	45	réunion
+HORRIS	Clint	24	7	2024	16	30	0	45	rendez-vous politique
+HORRIS	Clint	22	2	2024	10	45	0	15	rendez-vous associatif
+HORRIS	Clint	9	2	2024	16	0	1	45	rendez-vous spirituel
+HOUPROCH	Pat	28	12	2024	15	45	1	0	rendez-vous ludique
+HOUPROCH	Pat	1	3	2024	13	15	2	0	réunion
+HOUTAN	Laurent	28	11	2024	13	30	1	0	entretien
+HOUTAN	Laurent	24	5	2024	15	30	0	15	rendez-vous spirituel
+HOUTAN	Laurent	9	3	2024	13	30	1	15	entretien
+HOVAR	Sam	16	6	2024	15	15	1	45	projet
+HOVAR	Sam	4	4	2024	11	15	0	30	rendez-vous associatif
+HOVAR	Sam	6	3	2024	17	30	1	15	rendez-vous bénévole
+HULE	Jules	27	7	2024	15	30	1	45	rendez-vous humanitaire
+HULE	Jules	27	2	2024	13	45	1	0	rendez-vous artistique
+HUN	Jeff	0	0	0	0	0	0	0	0
+HUTTE	Sacha	0	0	0	0	0	0	0	0
+HYERE	Claire	8	10	2024	15	45	0	45	rendez-vous religieux
+HYERE	Claire	7	3	2024	11	45	2	15	rendez-vous amoureux
+HYMÔME	Max	28	11	2024	17	45	1	45	entretien
+HYMÔME	Max	7	5	2024	15	30	2	15	projet
+HYTTE	Prosper	15	7	2024	14	15	0	15	rendez-vous humanitaire
+HYTTE	Prosper	9	5	2024	12	45	2	0	réunion
+HYTTE	Prosper	7	4	2024	17	15	1	45	rendez-vous politique
+HYTTE	Prosper	26	1	2024	10	15	1	15	réunion
+HYTTE	Prosper	14	1	2024	13	15	1	0	rendez-vous associatif
+ICHON	Albert	21	11	2024	11	15	0	0	présentation
+ICHON	Albert	1	11	2024	10	30	0	45	rendez-vous bénévole
+ICHON	Albert	21	5	2024	9	0	2	30	rendez-vous humanitaire
+ILEOSUD	Eleonore	21	10	2024	15	45	0	45	rendez-vous médical
+ISSIME	Gerard	0	0	0	0	0	0	0	0
+ITMIEU	Elmer	20	2	2024	11	30	1	15	rendez-vous bénévole
+IVERTEMENT	Mathilde	0	0	0	0	0	0	0	0
+IZELEDEBAT	Hippolyte	23	12	2024	12	15	0	30	rendez-vous médical
+IZELEDEBAT	Hippolyte	6	11	2024	13	45	2	0	rendez-vous sportif
+IZELEDEBAT	Hippolyte	21	7	2024	17	0	1	45	rendez-vous médical
+IZELEDEBAT	Hippolyte	3	6	2024	11	15	2	15	rendez-vous bénévole
+IZELEDEBAT	Hippolyte	18	4	2024	12	0	2	30	rendez-vous bénévole
+IZELEDEBAT	Hippolyte	4	4	2024	16	15	1	30	rendez-vous insolite
+IZELEDEBAT	Hippolyte	2	3	2024	11	30	0	45	rendez-vous événementiel
+JAVEL	Aude	24	12	2024	16	15	2	30	rendez-vous technologique
+JAVEL	Aude	24	4	2024	14	45	1	0	rendez-vous amoureux
+JEPETEJEPUE	Khan	0	0	0	0	0	0	0	0
+JEUDE	Bernadette	11	7	2024	14	0	8	15	rendez-vous d'amitié
+JEUDE	Bernadette	8	6	2024	16	30	3	45	rendez-vous bénévole
+JEUDE	Bernadette	9	5	2024	12	45	0	45	rendez-vous religieux
+JEUDE	Bernadette	17	3	2024	14	15	8	0	rendez-vous spirituel
+JOUKARDETOUR	Ademar	24	8	2024	17	0	3	45	rendez-vous culturel
+JOUKARDETOUR	Ademar	6	4	2024	10	0	2	0	projet
+JOUKARDETOUR	Ademar	16	2	2024	16	30	2	30	rendez-vous politique
+JOUKARDETOUR	Ademar	18	1	2024	17	0	2	15	rendez-vous événementiel
+KADERATE	Yamamoto	1	7	2024	15	30	2	45	rendez-vous bénévole
+KADERATE	Yamamoto	11	5	2024	16	30	0	0	rendez-vous scientifique
+KAN	Jerry	0	0	0	0	0	0	0	0
+KAPAETRELA	Xavier	23	11	2024	17	0	1	45	entretien
+KELPEUVE	Aphonse	0	0	0	0	0	0	0	0
+KENALUNDI	Bowie	11	11	2024	17	45	1	30	rendez-vous familial
+KENALUNDI	Bowie	19	6	2024	15	0	1	30	rendez-vous culturel
+KENT	Bowie	22	7	2024	12	45	0	45	entretien
+KENTUCKY	Bowie	8	11	2024	12	0	1	0	rendez-vous bénévole
+KENTUCKY	Bowie	7	10	2024	15	0	4	0	repas d'affaires
+KENTUCKY	Bowie	9	8	2024	11	30	1	15	rendez-vous culturel
+KENTUCKY	Bowie	19	6	2024	8	30	6	15	rendez-vous événementiel
+KEPOURA	Adrienne	6	2	2024	13	15	0	45	rendez-vous associatif
+KHAMAN	Medhi	0	0	0	0	0	0	0	0
+KIKI	Terry	21	11	2024	11	15	2	0	rendez-vous événementiel
+KIKOUL	Rene	20	7	2024	12	30	2	30	rendez-vous amoureux
+KILO	Sandy	5	9	2024	10	30	0	15	rendez-vous politique
+KILO	Sandy	26	6	2024	17	45	0	15	repas d'affaires
+KILO	Sandy	9	5	2024	10	30	0	15	rendez-vous sportif
+KILO	Sandy	13	3	2024	13	15	0	45	rendez-vous artistique
+KILO	Sandy	6	3	2024	12	45	1	30	rendez-vous bénévole
+Kim	Hans	17	12	2024	10	0	7	30	rendez-vous bénévole
+KIROUL	Pierre	28	4	2024	14	0	1	45	rendez-vous politique
+KOLIQUE	Al	18	6	2024	14	0	0	30	rendez-vous d'amitié
+KONCERN	Hans Kim	2	12	2024	10	45	2	45	rendez-vous événementiel
+KONCERN	Hans Kim	17	10	2024	16	45	1	15	présentation
+LABIEN	Sebastien	0	0	0	0	0	0	0	0
+LACHEMINEE	Ramon	28	12	2024	15	15	0	30	entretien
+LACHEMINEE	Ramon	6	8	2024	14	30	0	30	rendez-vous amoureux
+LACOUR	Martial	21	12	2024	15	15	0	30	repas d'affaires
+LACOUVERTUREMEGRATTE	Sandra	26	2	2024	17	15	0	30	rendez-vous artistique
+LAGE	Karl	1	10	2024	16	45	0	15	rendez-vous associatif
+LAGE	Karl	5	7	2024	15	15	1	15	présentation
+LAGE	Karl	18	6	2024	16	15	0	0	rendez-vous artistique
+LAGE	Karl	3	2	2024	15	15	1	0	rendez-vous ludique
+LAGINGRAT	Ella	11	6	2024	14	30	0	0	rendez-vous religieux
+LAGINGRAT	Ella	20	2	2024	10	15	2	30	rendez-vous événementiel
+LAISSEDEPLUMES	Gilles	2	10	2024	13	45	1	15	rendez-vous ludique
+LAISSEDEPLUMES	Gilles	13	9	2024	9	30	2	30	rendez-vous religieux
+LAISSEDEPLUMES	Gilles	23	4	2024	15	15	2	45	rendez-vous médical
+LAISSEDEPLUMES	Gilles	16	4	2024	9	15	2	0	rendez-vous spirituel
+LAMINE	Bianca	20	12	2024	16	15	2	0	rendez-vous technologique
+LAMINE	Bianca	26	8	2024	12	15	1	45	projet
+LAMINE	Bianca	23	8	2024	17	45	1	15	rendez-vous humanitaire
+LAMINE	Bianca	13	4	2024	9	15	1	15	rendez-vous ludique
+LAMINE	Bianca	25	3	2024	16	15	1	15	rendez-vous artistique
+LAMINE	Bianca	2	3	2024	16	30	2	30	rendez-vous culturel
+LAMINE	Bianca	3	1	2024	12	30	1	0	rendez-vous bénévole
+LAMINEED	Bianca	19	12	2024	11	45	3	15	rendez-vous d'amitié
+LAMINEED	Bianca	19	9	2024	11	0	3	15	rendez-vous insolite
+LAMINEED	Bianca	16	6	2024	16	0	0	45	rendez-vous scientifique
+LAPAIX	Vishnou	25	7	2024	10	45	1	0	rendez-vous artistique
+LAPECHE	Ella	25	3	2024	10	15	1	15	rendez-vous événementiel
+LAPLACE	Claire	0	0	0	0	0	0	0	0
+LAPOUBELLE	Ovide	24	11	2024	9	0	2	0	rendez-vous scientifique
+LAPOUBELLE	Ovide	13	6	2024	11	0	1	30	rendez-vous technologique
+LATINETTE	Ovide	14	7	2024	10	15	1	30	rendez-vous d'amitié
+LATINETTE	Ovide	2	6	2024	12	45	0	0	rendez-vous sportif
+LATINETTE	Ovide	14	3	2024	16	0	1	30	rendez-vous amoureux
+LATINETTE	Ovide	1	1	2024	13	0	0	45	repas d'affaires
+LAVALLEE	Yvon	24	9	2024	12	45	0	30	rendez-vous humanitaire
+LAVALLEE	Yvon	24	9	2024	12	45	0	30	rendez-vous humanitaire
+LAVALLEE	Yvon	24	9	2024	12	45	0	30	rendez-vous humanitaire
+LAVALLEE	Yvon	9	3	2024	10	15	0	0	rendez-vous religieux
+LAVALLEE	Yvon	18	2	2024	10	0	0	30	rendez-vous amoureux
+LAVALLEE	Yvon	27	1	2024	9	15	2	15	rendez-vous spirituel
+LAVETONCUL	Eva	15	10	2024	9	45	0	0	rendez-vous d'amitié
+LAVETONCUL	Eva	18	9	2024	9	30	1	0	rendez-vous scientifique
+LAVETONCUL	Eva	5	5	2024	10	30	2	15	rendez-vous ludique
+LAVIELLE	Pacôme-Aude	18	5	2024	9	15	1	15	rendez-vous scientifique
+LAZARE	Garcin	18	5	2024	10	30	2	45	rendez-vous d'amitié
+LEAU	Gina	9	5	2024	12	30	2	15	rendez-vous médical
+LEAUTRE	Pacôme	15	9	2024	13	30	2	30	rendez-vous événementiel
+LEAUTRE	Pacôme	2	5	2024	13	30	2	0	rendez-vous ludique
+LECASSE	Sam	20	12	2024	12	0	0	30	rendez-vous associatif
+LECASSE	Sam	25	8	2024	10	45	0	30	entretien
+LECOUVERT	Amhed	26	4	2024	12	15	2	15	présentation
+LECOUVERT	Amhed	8	3	2024	14	15	0	0	présentation
+LECOUVERT	Amhed	22	1	2024	9	30	1	30	repas d'affaires
+LEDIVINENFANT	Irenee	16	11	2024	16	45	0	0	rendez-vous amoureux
+LEMAN	Norma	23	10	2024	15	45	2	30	rendez-vous insolite
+LEMAN	Norma	1	10	2024	13	15	0	15	rendez-vous technologique
+LEMAN	Norma	18	8	2024	11	45	0	30	projet
+LEMAN	Norma	28	7	2024	11	15	2	45	repas d'affaires
+LESSEINALERRE	Ella	27	12	2024	12	45	2	30	rendez-vous ludique
+LESSEINALERRE	Ella	11	10	2024	12	15	2	45	entretien
+LESSEINALERRE	Ella	16	3	2024	15	0	1	45	présentation
+LINALINE	Andre	25	12	2024	9	30	5	0	rendez-vous humanitaire
+LINALINE	Andre	1	12	2024	14	0	8	15	rendez-vous spirituel
+LINALINE	Andre	24	10	2024	10	0	0	45	rendez-vous sportif
+LINALINE	Andre	7	9	2024	8	30	2	0	présentation
+LINALINE	Andre	17	5	2024	8	30	8	15	présentation
+LINALINE	Andre	13	5	2024	17	0	8	0	rendez-vous familial
+LINALINE	Andre	28	3	2024	16	15	5	30	réunion
+LO	Samantha	3	10	2024	13	0	1	15	entretien
+LOUEST	Thea	17	8	2024	12	0	0	30	rendez-vous sportif
+LOUEST	Thea	8	7	2024	15	15	1	0	rendez-vous associatif
+LUT	Arthur	0	0	0	0	0	0	0	0
+LUTFINALE	Sheila	0	0	0	0	0	0	0	0
+LUTTER	Arthur	26	9	2024	9	45	6	15	projet
+LUTTER	Arthur	15	8	2024	13	0	0	45	rendez-vous associatif
+LUTTER	Arthur	8	8	2024	13	30	1	0	entretien
+LUTTER	Arthur	4	8	2024	16	15	3	15	rendez-vous culturel
+LUTTER	Arthur	25	3	2024	15	15	1	0	rendez-vous d'amitié
+MALE	Annie	11	10	2024	11	0	2	30	entretien
+MALE	Annie	20	8	2024	9	30	1	45	repas d'affaires
+MALFEMME	Annie	5	9	2024	15	15	3	0	rendez-vous ludique
+MALFEMME	Annie	6	7	2024	13	30	2	15	repas d'affaires
+MALFEMME	Annie	15	2	2024	13	0	5	0	rendez-vous culturel
+MALFEMME	Annie	12	2	2024	13	15	3	30	rendez-vous politique
+MAMOTO	Ademar	2	8	2024	13	30	0	45	rendez-vous d'amitié
+MAMOTO	Ademar	24	4	2024	13	45	1	0	rendez-vous sportif
+MAMOTO	Ademar	28	1	2024	11	30	2	15	rendez-vous humanitaire
+MANCHE	Sandy	11	5	2024	13	30	1	0	rendez-vous d'amitié
+MANIMPORTANT	Estelle	3	5	2024	13	45	0	45	rendez-vous humanitaire
+MANVUSSA	Gerard	0	0	0	0	0	0	0	0
+MAROLEX	Eleonor	1	4	2024	15	15	0	15	présentation
+MAROLEX	Eleonor	3	3	2024	15	0	2	0	rendez-vous associatif
+MASQUEBAL	Alonzo	24	12	2024	15	15	5	30	rendez-vous technologique
+MASQUEBAL	Alonzo	21	12	2024	17	30	6	0	projet
+MASQUEBAL	Alonzo	14	11	2024	11	15	0	30	rendez-vous associatif
+MASQUEBAL	Alonzo	25	6	2024	16	30	2	30	rendez-vous spirituel
+MASQUEBAL	Alonzo	17	6	2024	13	15	6	30	rendez-vous technologique
+MASQUEBAL	Alonzo	10	6	2024	17	30	8	45	rendez-vous familial
+MASQUEBAL	Alonzo	20	3	2024	14	0	5	30	rendez-vous associatif
+MASSE	Lara	23	6	2024	14	0	1	45	rendez-vous spirituel
+MASSE	Lara	25	5	2024	12	45	0	0	réunion
+MASSE	Sarah	17	10	2024	10	0	2	15	entretien
+MEFERMLAPORTE	Angele	13	12	2024	15	45	6	45	rendez-vous spirituel
+MEFERMLAPORTE	Angele	28	5	2024	9	45	5	30	rendez-vous humanitaire
+MEFERMLAPORTE	Angele	8	3	2024	9	15	5	0	entretien
+MELIVALOIN	Amelie	17	11	2024	12	15	6	45	réunion
+MELIVALOIN	Amelie	14	11	2024	13	0	4	30	projet
+MELIVALOIN	Amelie	21	9	2024	12	0	4	45	rendez-vous politique
+MELIVALOIN	Amelie	10	9	2024	14	15	4	30	réunion
+MELIVALOIN	Amelie	25	6	2024	12	30	7	30	rendez-vous scientifique
+MELIVALOIN	Amelie	26	5	2024	15	30	0	15	rendez-vous d'amitié
+MELIVALOIN	Amelie	20	5	2024	10	0	7	30	rendez-vous événementiel
+MELIVALOIN	Amelie	13	4	2024	8	45	2	0	rendez-vous scientifique
+MELIVALOIN	Amelie	17	1	2024	17	0	0	15	rendez-vous religieux
+MELMOU	Cara	15	1	2024	16	30	2	45	rendez-vous technologique
+MEMBIEN	Hakim	2	11	2024	9	15	1	30	rendez-vous culturel
+MEMBIEN	Hakim	18	10	2024	17	15	0	0	rendez-vous ludique
+MEMBIEN	Hakim	26	6	2024	15	45	0	15	rendez-vous insolite
+MEMBIEN	Hakim	4	4	2024	14	0	2	15	présentation
+MEMBIEN	Hakim	14	3	2024	16	30	2	15	réunion
+MEN	Modeste	15	5	2024	13	15	2	30	rendez-vous spirituel
+MENDUFRIC	Gerard	5	12	2024	12	45	2	15	rendez-vous ludique
+MENDUFRIC	Gerard	24	10	2024	10	45	0	0	rendez-vous politique
+MENFAIM	Gerard	5	10	2024	15	45	0	0	rendez-vous amoureux
+MENFAIM	Gerard	27	5	2024	14	30	2	45	rendez-vous événementiel
+MENJOUI	Gerard	0	0	0	0	0	0	0	0
+MENTATION	Ali	15	12	2024	17	0	1	30	rendez-vous scientifique
+MENTATION	Ali	14	7	2024	10	15	2	45	entretien
+MENTATION	Ali	10	1	2024	9	0	2	0	rendez-vous familial
+MENVUCA	Gerard	0	0	0	0	0	0	0	0
+MENVUSSAT	Gerard	22	12	2024	13	15	1	15	entretien
+MENVUSSAT	Gerard	15	6	2024	17	45	2	30	rendez-vous insolite
+METRE	Sandy	16	9	2024	12	0	0	15	rendez-vous bénévole
+METRE	Sandy	10	6	2024	9	45	2	15	rendez-vous humanitaire
+METRE	Sandy	19	4	2024	14	45	0	15	rendez-vous familial
+MICOTON	Milene	3	10	2024	17	15	0	45	rendez-vous technologique
+MICOTON	Milene	24	8	2024	16	30	1	0	rendez-vous spirituel
+MIL	Sim K	0	0	0	0	0	0	0	0
+MINOU	Bienvenue	3	12	2024	16	45	1	30	présentation
+MINOU	Bienvenue	15	3	2024	13	0	6	0	rendez-vous bénévole
+MINOU	Bienvenue	21	2	2024	17	15	0	30	rendez-vous humanitaire
+MONLATIN	Gilbert	21	11	2024	15	0	2	15	rendez-vous politique
+MONLATIN	Gilbert	19	11	2024	10	45	2	0	entretien
+MONLATIN	Gilbert	28	9	2024	14	0	1	30	rendez-vous ludique
+MONSLIP	Jean-Phil	9	11	2024	16	45	0	0	réunion
+MONSLIP	Jean-Phil	14	2	2024	15	0	2	45	réunion
+MOUILLELESEC	Lola	0	0	0	0	0	0	0	0
+NADE	Nestor	9	2	2024	13	30	0	0	rendez-vous ludique
+NAINPORTEKOI	Teddy	24	11	2024	13	30	0	30	rendez-vous scientifique
+NAINPORTEKOI	Teddy	1	10	2024	13	15	0	30	rendez-vous technologique
+NAINPORTEKOI	Teddy	5	6	2024	13	0	0	30	réunion
+NAINPORTEKOI	Teddy	24	3	2024	10	45	2	15	rendez-vous ludique
+NALINE	Andre	15	4	2024	14	15	2	45	rendez-vous familial
+NALINE	Andre	18	2	2024	10	0	2	30	rendez-vous humanitaire
+NEMARD	Jean	22	6	2024	9	0	1	15	rendez-vous culturel
+NEMARD	Jean	2	2	2024	14	45	1	45	rendez-vous médical
+NEOPOWER	Agathe	4	12	2024	14	15	7	15	rendez-vous humanitaire
+NEOPOWER	Agathe	17	11	2024	17	30	0	45	rendez-vous politique
+NEOPOWER	Agathe	28	8	2024	15	45	2	15	rendez-vous sportif
+NEOPOWER	Agathe	22	7	2024	10	15	2	15	rendez-vous sportif
+NEOPOWER	Agathe	3	7	2024	8	15	7	15	projet
+NEOPOWER	Agathe	13	6	2024	15	15	6	0	rendez-vous bénévole
+NEOPOWER	Agathe	9	5	2024	11	0	1	45	rendez-vous politique
+NEOPOWER	Agathe	2	5	2024	9	30	7	0	rendez-vous artistique
+NEPAMORT	Vicky	7	8	2024	10	0	1	0	rendez-vous événementiel
+NEPAMORT	Vicky	19	7	2024	14	0	0	15	rendez-vous sportif
+NEPAMORT	Vicky	10	5	2024	15	45	2	45	rendez-vous scientifique
+NEPAMORT	Vicky	23	3	2024	12	15	0	30	rendez-vous religieux
+NETOFRIGO	Jessica	15	9	2024	11	15	1	15	rendez-vous humanitaire
+NETOFRIGO	Jessica	17	1	2024	10	15	0	30	rendez-vous culturel
+NICHE	Jessica	20	8	2024	13	30	2	45	rendez-vous bénévole
+NICHE	Jessica	17	8	2024	9	0	1	15	rendez-vous spirituel
+NICHE	Jessica	8	5	2024	14	45	2	45	rendez-vous humanitaire
+NICOUVERTURE	Sandra	12	11	2024	15	0	1	15	rendez-vous bénévole
+NICOUVERTURE	Sandra	9	8	2024	9	30	2	15	entretien
+NICOUVERTURE	Sandra	3	7	2024	11	0	2	0	réunion
+NICOUVERTURE	Sandra	27	2	2024	10	30	0	15	rendez-vous ludique
+NIHORANGINA	Nicolas	24	7	2024	12	15	1	30	rendez-vous artistique
+NIHORANGINA	Nicolas	6	1	2024	14	45	0	45	rendez-vous insolite
+NISSE	Joe	4	11	2024	15	0	2	0	rendez-vous religieux
+NISSE	Joe	26	3	2024	9	30	2	30	rendez-vous associatif
+OBSCURE	Claire	0	0	0	0	0	0	0	0
+OCEANPATAMOB	Alphonse	4	10	2024	10	15	5	45	rendez-vous médical
+OCEANPATAMOB	Alphonse	16	9	2024	11	30	1	30	rendez-vous d'amitié
+OCEANPATAMOB	Alphonse	7	8	2024	10	15	5	0	rendez-vous médical
+OCEANPATAMOB	Alphonse	2	6	2024	12	30	0	45	rendez-vous artistique
+OCEANPATAMOB	Alphonse	4	1	2024	14	30	6	15	réunion
+OCHE	Habib	19	10	2024	16	45	0	15	rendez-vous politique
+OCHON	Paul	10	8	2024	14	15	2	30	projet
+OCHON	Paul	6	6	2024	10	30	2	30	rendez-vous sportif
+OCHON	Paul	20	2	2024	15	15	2	15	rendez-vous spirituel
+ODUVILLAGE	Lydie	18	4	2024	10	0	2	15	rendez-vous d'amitié
+OIE	Allan	2	9	2024	10	15	1	30	présentation
+OIE	Allan	2	8	2024	13	30	0	45	rendez-vous d'amitié
+OIE	Allan	28	3	2024	16	45	2	30	rendez-vous technologique
+OIN	Serge	17	11	2024	9	30	1	0	rendez-vous technologique
+OIN	Serge	20	10	2024	10	45	2	0	projet
+OIN	Serge	24	9	2024	10	30	0	0	projet
+OIN	Serge	20	6	2024	11	15	0	45	rendez-vous ludique
+OINKCA	Cecile	17	12	2024	8	15	1	45	rendez-vous familial
+OINKCA	Cecile	4	11	2024	14	0	2	45	rendez-vous humanitaire
+OKARDETOUR	Ademar	27	10	2024	13	45	2	0	rendez-vous culturel
+OKARDETOUR	Ademar	15	6	2024	9	30	1	45	rendez-vous technologique
+OKARDETOUR	Ademar	13	1	2024	10	45	2	15	présentation
+OKARDETOUR	Ademar	3	1	2024	12	30	1	30	rendez-vous technologique
+OMA	Modeste	0	0	0	0	0	0	0	0
+ONE	Paul	8	9	2024	11	0	0	45	présentation
+ONE	Paul	10	5	2024	9	0	0	30	rendez-vous amoureux
+ONETTE	Camille	19	11	2024	17	15	2	45	rendez-vous technologique
+ONETTE	Camille	23	10	2024	9	45	1	45	réunion
+ONETTE	Camille	21	10	2024	15	30	2	30	rendez-vous artistique
+ORIAL	Edith	24	12	2024	9	0	2	45	réunion
+ORIAL	Edith	3	12	2024	14	15	2	0	rendez-vous familial
+ORIAL	Edith	10	10	2024	15	30	2	0	rendez-vous spirituel
+ORIAL	Edith	18	9	2024	9	15	1	45	rendez-vous associatif
+ORIAL	Edith	1	4	2024	10	15	0	30	rendez-vous humanitaire
+OSSECOUR	Khaled	23	11	2024	14	45	1	30	rendez-vous politique
+OSSECOUR	Khaled	26	5	2024	16	30	1	15	rendez-vous événementiel
+OSSECOUR	Khaled	27	3	2024	15	30	1	15	entretien
+OTIQUE	Rob	7	12	2024	14	0	0	15	rendez-vous ludique
+OTIQUE	Rob	4	12	2024	15	15	2	0	projet
+OTTENSION	Line	0	0	0	0	0	0	0	0
+OTTOFRAISE	Charles	0	0	0	0	0	0	0	0
+OUIE	Allan	22	12	2024	17	30	2	0	rendez-vous humanitaire
+OUIE	Allan	18	12	2024	14	15	8	45	rendez-vous médical
+OUIE	Allan	23	8	2024	11	30	1	0	rendez-vous spirituel
+OUIE	Allan	6	7	2024	13	15	2	0	rendez-vous d'amitié
+OUIE	Allan	26	4	2024	15	30	2	0	rendez-vous politique
+OUIE	Allan	27	3	2024	17	30	2	30	rendez-vous humanitaire
+OUINKCA	Cecile	24	5	2024	12	0	0	15	rendez-vous médical
+OUSSACOPINE	Estelle	24	10	2024	14	45	1	15	repas d'affaires
+OUZI	Jacques	0	0	0	0	0	0	0	0
+O’CHOCOLA	Douglas	25	8	2024	15	45	0	15	rendez-vous bénévole
+O’CHOCOLA	Douglas	5	3	2024	17	45	1	15	rendez-vous technologique
+PABU	Amede	23	3	2024	15	15	5	0	repas d'affaires
+PABU	Amede	28	2	2024	15	45	2	30	entretien
+PACESOIR	Zinedine	28	1	2024	15	0	1	15	présentation
+PAELLECALE	Ademar	21	9	2024	10	30	0	0	rendez-vous culturel
+PAELLECALE	Ademar	23	8	2024	12	45	1	15	réunion
+PAELLECALE	Ademar	25	7	2024	13	15	0	30	rendez-vous technologique
+PAELLECALE	Ademar	20	1	2024	10	45	1	30	rendez-vous amoureux
+PAFIN	Janette	0	0	0	0	0	0	0	0
+PALAIRTREBIENSOLIDE	Oussama	0	0	0	0	0	0	0	0
+PALAIRTRECLAIRE	Oussama	17	12	2024	11	30	1	15	rendez-vous technologique
+PALAIRTRECLAIRE	Oussama	7	3	2024	15	30	2	45	rendez-vous politique
+PARADE	Emma	2	12	2024	15	30	1	30	rendez-vous religieux
+PARADE	Emma	11	10	2024	15	30	2	45	rendez-vous ludique
+PARBAL	Gilles	26	9	2024	11	15	1	30	rendez-vous religieux
+PARBAL	Gilles	23	3	2024	11	30	0	30	entretien
+PARCEQUEALORS	Berthe	28	11	2024	10	30	7	30	rendez-vous associatif
+PARCEQUEALORS	Berthe	18	10	2024	14	15	2	30	rendez-vous humanitaire
+PARCEQUEALORS	Berthe	15	10	2024	16	15	0	45	projet
+PARCEQUEALORS	Berthe	10	1	2024	15	0	3	30	rendez-vous scientifique
+PARLEURNOM	Isabelle	18	9	2024	13	45	2	15	rendez-vous insolite
+PARLEURNOM	Isabelle	12	6	2024	13	0	2	15	rendez-vous technologique
+PARLEURNOM	Isabelle	26	4	2024	15	15	2	30	repas d'affaires
+PARMINOU	Bienvenue	26	10	2024	13	45	0	15	rendez-vous ludique
+PARMINOU	Bienvenue	24	6	2024	15	15	0	30	rendez-vous événementiel
+PARMINOU	Bienvenue	21	5	2024	14	0	1	0	rendez-vous scientifique
+PAROLEDEURE	Carla	19	8	2024	17	45	7	15	rendez-vous artistique
+PAROLEDEURE	Carla	25	7	2024	9	45	2	30	rendez-vous d'amitié
+PAROLEDEURE	Carla	6	7	2024	13	15	1	15	rendez-vous culturel
+PAROLEDEURE	Carla	28	3	2024	13	30	3	15	rendez-vous politique
+PAROLEDOR	Carla	27	12	2024	12	45	0	15	rendez-vous médical
+PAROLEDOR	Carla	17	8	2024	9	45	0	30	réunion
+PAROLEDOR	Carla	4	6	2024	14	0	0	45	rendez-vous artistique
+PAROLEDOR	Carla	9	3	2024	13	30	0	0	présentation
+PASICHON	Albert	3	12	2024	14	30	2	15	rendez-vous culturel
+PASICHON	Albert	28	10	2024	8	0	6	15	rendez-vous bénévole
+PASICHON	Albert	14	3	2024	13	0	6	30	repas d'affaires
+PASICHON	Albert	26	1	2024	17	45	7	45	rendez-vous familial
+PATAGUEULE	James	19	12	2024	15	45	2	30	projet
+PATAGUEULE	James	28	9	2024	9	30	1	30	rendez-vous politique
+PATAMOB	Alphonse	28	3	2024	15	15	0	45	rendez-vous culturel
+PATAMOB	Alphonse	6	1	2024	12	30	1	15	rendez-vous médical
+PELLE	Sarah	10	12	2024	12	0	2	30	rendez-vous amoureux
+PELLE	Sarah	12	4	2024	15	15	2	30	rendez-vous insolite
+PELPU	Sarah	26	11	2024	13	30	2	0	réunion
+PERCEPTIONIST	Alex	27	10	2024	13	15	3	45	rendez-vous technologique
+PERCEPTIONIST	Alex	22	10	2024	8	0	8	0	présentation
+PERCEPTIONIST	Alex	16	8	2024	8	30	5	15	entretien
+PERCEPTIONIST	Alex	17	2	2024	8	30	8	0	rendez-vous médical
+PEREMERE	Yvan	13	11	2024	13	30	0	0	réunion
+PEREMERE	Yvan	3	4	2024	16	15	1	30	rendez-vous culturel
+PEREMERE	Yvan	19	3	2024	14	45	0	0	rendez-vous spirituel
+PEUTAGUEULE	Firmin	20	11	2024	13	45	0	0	rendez-vous scientifique
+PHILEMONPULL	Jean	0	0	0	0	0	0	0	0
+PIQUE	Sam	0	0	0	0	0	0	0	0
+PIRATION	Alex	26	1	2024	10	30	1	0	rendez-vous familial
+PISSE	Eva	13	3	2024	12	15	2	15	rendez-vous d'amitié
+PLAQUEE	Laure	0	0	0	0	0	0	0	0
+PLIEVERSE	Alain	24	11	2024	10	30	4	15	entretien
+PLIEVERSE	Alain	21	7	2024	12	30	1	15	rendez-vous culturel
+PLIEVERSE	Alain	13	3	2024	14	0	5	45	rendez-vous médical
+PLUDBIERE	Roger	11	11	2024	10	45	1	30	rendez-vous associatif
+PLUVIEUX	Marie-Ange	5	8	2024	14	45	2	30	réunion
+POLAIRE	Aurore	10	9	2024	14	45	1	0	rendez-vous insolite
+POLAIRE	Aurore	8	9	2024	16	15	0	30	rendez-vous culturel
+POLAIRE	Aurore	23	5	2024	11	30	0	0	rendez-vous bénévole
+POLAIRE	Aurore	12	1	2024	14	15	1	30	rendez-vous humanitaire
+POLAIREMENT	Aurore	19	9	2024	12	30	4	15	rendez-vous associatif
+POLAIREMENT	Aurore	27	8	2024	14	0	7	30	rendez-vous familial
+POLAIREMENT	Aurore	22	8	2024	14	15	2	15	repas d'affaires
+POLAIREMENT	Aurore	24	6	2024	16	30	1	0	entretien
+POLAIREMENT	Aurore	26	3	2024	16	30	7	0	rendez-vous bénévole
+POLAIREMENT	Aurore	23	1	2024	8	45	8	30	réunion
+PONCE	Pierre	23	9	2024	14	15	0	45	rendez-vous scientifique
+PONSABLE	Therese	24	11	2024	14	0	1	15	rendez-vous spirituel
+PONSABLE	Therese	3	7	2024	12	30	0	45	rendez-vous familial
+PONSABLE	Therese	12	5	2024	13	45	0	15	rendez-vous sportif
+PONSABLEDUMATOS	Therese	19	9	2024	10	15	1	0	rendez-vous ludique
+PONSE	Ray	10	12	2024	16	30	2	0	rendez-vous culturel
+PONSE	Ray	19	2	2024	15	30	1	30	projet
+PORE	Eva	6	12	2024	16	30	0	0	présentation
+PORE	Eva	20	4	2024	9	15	1	15	rendez-vous scientifique
+PORTE	Mateo	0	0	0	0	0	0	0	0
+POSTE	Henri	15	11	2024	13	30	1	15	rendez-vous technologique
+POSTE	Henri	9	11	2024	16	45	2	45	rendez-vous familial
+POSTE	Henri	1	6	2024	10	15	1	15	rendez-vous bénévole
+POSTE	Henri	27	4	2024	12	0	2	0	entretien
+POSTE	Henri	7	4	2024	11	15	1	0	projet
+POSTE	Henri	3	3	2024	17	45	2	30	rendez-vous religieux
+POTANGLAISE	Jessica	19	7	2024	16	45	1	0	rendez-vous insolite
+POTANGLAISE	Jessica	17	5	2024	14	45	2	15	rendez-vous médical
+POWER	Agathe	19	7	2024	12	45	1	45	rendez-vous scientifique
+POWER	Agathe	27	6	2024	11	45	2	0	entretien
+POWER	Agathe	21	4	2024	15	0	0	45	rendez-vous événementiel
+POWER	Agathe	6	3	2024	14	0	2	0	rendez-vous culturel
+POWER	Agathe	15	2	2024	17	15	0	30	rendez-vous sportif
+PRENOTE	Jean	14	11	2024	17	30	2	45	rendez-vous d'amitié
+PRENOTE	Jean	23	8	2024	11	30	1	30	rendez-vous insolite
+PROCHAIN	Edmond	6	11	2024	12	15	2	45	rendez-vous médical
+PROFITEZEPIT	Berthe	24	11	2024	16	45	7	0	rendez-vous ludique
+PROFITEZEPIT	Berthe	11	8	2024	15	30	3	30	rendez-vous d'amitié
+PROFITEZEPIT	Berthe	28	7	2024	14	30	7	45	repas d'affaires
+PROFITEZEPIT	Berthe	20	7	2024	16	0	6	30	rendez-vous ludique
+PROFITEZEPIT	Berthe	3	6	2024	9	45	8	0	réunion
+PROFITEZEPIT	Berthe	9	3	2024	9	30	5	15	rendez-vous spirituel
+PROFITEZEPIT	Berthe	12	1	2024	14	15	5	0	rendez-vous sportif
+PROFITEZEPIT	Berthe	2	1	2024	16	30	3	45	rendez-vous scientifique
+PROVIST	Alain	3	10	2024	14	0	0	45	rendez-vous événementiel
+PTIPEU	Justin	4	12	2024	17	15	1	45	rendez-vous artistique
+PTITGOUTE	Anne-Corinne	26	11	2024	17	15	2	15	présentation
+PTITGOUTE	Anne-Corinne	25	10	2024	11	45	0	0	rendez-vous familial
+PTITGOUTE	Anne-Corinne	28	6	2024	14	0	0	15	rendez-vous associatif
+PTITGOUTE	Anne-Corinne	19	6	2024	13	30	1	45	rendez-vous médical
+PTITGOUTE	Anne-Corinne	9	4	2024	17	0	1	0	réunion
+PTITGOUTE	Justine	28	11	2024	15	45	2	45	entretien
+PTITGOUTE	Justine	16	3	2024	13	30	1	30	rendez-vous insolite
+QUATREdayS	Adam	15	12	2024	14	45	2	0	rendez-vous sportif
+QUATREdayS	Adam	14	12	2024	11	45	6	30	rendez-vous culturel
+QUATREdayS	Adam	2	12	2024	11	45	2	15	rendez-vous spirituel
+QUATREdayS	Adam	6	10	2024	8	15	8	0	rendez-vous technologique
+QUATREdayS	Adam	22	9	2024	12	0	5	45	rendez-vous bénévole
+QUATREdayS	Adam	21	6	2024	15	45	8	15	rendez-vous politique
+QUATREdayS	Adam	14	4	2024	12	0	8	0	réunion
+QUELPEUVE	Aphonse	2	12	2024	17	0	1	30	repas d'affaires
+QUELPEUVE	Aphonse	25	8	2024	16	30	5	15	rendez-vous d'amitié
+QUELPEUVE	Aphonse	13	8	2024	15	30	5	15	rendez-vous sportif
+QUELPEUVE	Aphonse	5	6	2024	8	30	6	30	rendez-vous technologique
+QUELPEUVE	Aphonse	26	1	2024	13	30	0	15	rendez-vous ludique
+QUELPEUVE	Aphonse	4	1	2024	14	0	3	30	rendez-vous artistique
+RABLE	Daisy	7	12	2024	14	15	2	45	présentation
+RABLE	Daisy	22	10	2024	10	0	2	0	rendez-vous insolite
+RABLE	Daisy	13	1	2024	14	0	2	15	rendez-vous humanitaire
+RAGESURVIENTJEVIRE	Sylvie	1	11	2024	10	30	2	45	réunion
+RAIPAS	Jean-Loup	0	0	0	0	0	0	0	0
+RATON	Candy	6	11	2024	16	45	0	30	rendez-vous amoureux
+RATON	Candy	27	4	2024	11	30	1	0	rendez-vous religieux
+RATON	Candy	14	2	2024	15	30	2	0	rendez-vous d'amitié
+RATONCITO	Candy	14	7	2024	11	0	7	30	projet
+RATONCITO	Candy	20	6	2024	9	15	3	45	rendez-vous spirituel
+RAVE	Beth	13	4	2024	14	0	0	0	rendez-vous politique
+RAVE	Beth	11	1	2024	15	0	0	45	rendez-vous technologique
+RAVELLO	Beth	4	11	2024	14	15	5	30	réunion
+RAVELLO	Beth	4	10	2024	17	30	8	30	rendez-vous politique
+RAVELLO	Beth	3	10	2024	13	15	0	45	rendez-vous associatif
+RAVELLO	Beth	20	4	2024	17	30	3	45	rendez-vous amoureux
+RAVELLO	Beth	6	2	2024	9	0	4	0	rendez-vous familial
+REDWAY	Pat	21	11	2024	9	0	1	30	rendez-vous familial
+REDWAY	Pat	27	9	2024	10	30	0	30	projet
+REGISTRE	Jean	9	12	2024	13	0	1	0	repas d'affaires
+REGISTRE	Jean	22	10	2024	15	0	2	45	rendez-vous religieux
+REGISTRE	Jean	13	7	2024	15	30	2	15	repas d'affaires
+REGRET	Pat	24	6	2024	16	0	0	15	présentation
+REGRET	Pat	4	1	2024	12	30	2	15	rendez-vous spirituel
+RELOIN	Pat	25	9	2024	10	45	0	45	réunion
+RELOIN	Pat	25	9	2024	9	45	1	45	rendez-vous médical
+RELOIN	Pat	5	9	2024	15	0	1	45	rendez-vous bénévole
+RELOIN	Pat	16	7	2024	15	15	0	30	entretien
+RELOIN	Pat	6	6	2024	10	30	2	30	rendez-vous sportif
+RELOIN	Pat	15	4	2024	14	15	1	30	rendez-vous événementiel
+REMBETTER	Akim	27	10	2024	10	0	5	15	rendez-vous scientifique
+REMBETTER	Akim	10	10	2024	15	45	5	30	rendez-vous sportif
+REMBETTER	Akim	27	9	2024	13	0	6	15	rendez-vous humanitaire
+REMBETTER	Akim	25	9	2024	14	15	1	15	rendez-vous politique
+REMBETTER	Akim	13	6	2024	14	15	6	30	rendez-vous familial
+REPRENDRAISBIENUNPTITOUIMERCI	Jean	17	7	2024	15	45	1	45	rendez-vous d'amitié
+RESPIRATION	Alex	24	11	2024	8	0	6	0	projet
+RESPIRATION	Alex	10	11	2024	8	45	2	30	rendez-vous culturel
+RESPIRATION	Alex	19	6	2024	15	30	7	0	rendez-vous ludique
+RESPIRATION	Alex	21	5	2024	14	30	5	45	rendez-vous familial
+RESPIRATION	Alex	28	2	2024	17	0	2	30	rendez-vous événementiel
+RESPIRATION	Alex	21	2	2024	14	15	5	15	projet
+RESPIRATION	Alex	11	2	2024	9	45	2	30	rendez-vous ludique
+RESPIRATION	Alex	2	1	2024	13	0	3	15	projet
+RIEN	Jenifer	25	1	2024	15	30	1	0	rendez-vous événementiel
+RIEN	Jenifer	12	1	2024	15	30	0	45	rendez-vous ludique
+RIGOLE	Jean	21	12	2024	17	30	1	30	rendez-vous amoureux
+RIGOLE	Jean	9	8	2024	16	45	0	30	rendez-vous médical
+RIGOLE	Jean	12	6	2024	12	30	0	0	rendez-vous ludique
+RIGOLE	Jean	5	5	2024	14	45	0	30	présentation
+RIGOLE	Jean	10	2	2024	13	15	1	45	rendez-vous associatif
+RIMONAMOUR	Moshe	0	0	0	0	0	0	0	0
+RITDORMANT	Abel	23	12	2024	9	15	2	45	rendez-vous associatif
+RITDORMANT	Abel	23	8	2024	14	30	6	0	présentation
+RITDORMANT	Abel	14	8	2024	9	15	0	15	rendez-vous politique
+RITDORMANT	Abel	10	8	2024	8	0	4	0	entretien
+RITDORMANT	Abel	18	2	2024	9	30	1	30	projet
+ROGNE	Yves	24	12	2024	11	45	1	0	rendez-vous sportif
+ROGNE	Yves	17	5	2024	14	0	0	30	présentation
+ROGNE	Yves	13	3	2024	9	45	0	30	réunion
+ROGNE	Yves	6	2	2024	10	30	0	0	rendez-vous associatif
+ROSELEURANNIVERSAIRE	Elsa	23	12	2024	11	30	2	30	rendez-vous ludique
+ROSELEURANNIVERSAIRE	Elsa	16	6	2024	9	15	1	45	présentation
+ROUANA	Marie	7	11	2024	15	45	2	30	rendez-vous artistique
+ROUANA	Marie	23	3	2024	14	0	0	0	rendez-vous bénévole
+ROUANA	Marie	20	1	2024	14	15	0	0	rendez-vous ludique
+ROÏD	Paula	0	0	0	0	0	0	0	0
+SAINT LAGARE	Lazare	22	9	2024	13	15	1	15	rendez-vous bénévole
+SAINT	Lazare	18	7	2024	12	45	1	0	rendez-vous événementiel
+SAINT	Lazare	2	6	2024	15	45	5	45	rendez-vous familial
+SAINT	Lazare	23	1	2024	14	0	8	15	réunion
+SAINTMICHEL	Edmond	7	4	2024	11	0	0	0	rendez-vous culturel
+SAINTMICHEL	Edmond	22	2	2024	15	0	2	30	rendez-vous ludique
+SALAMANDRE	Aubin	14	12	2024	11	0	8	45	rendez-vous sportif
+SALAMANDRE	Aubin	14	4	2024	10	30	3	45	rendez-vous culturel
+SALORE	Aubin	20	3	2024	17	30	0	15	projet
+SALORE	Aubin	14	3	2024	14	0	2	30	rendez-vous familial
+SALORE	Aubin	4	1	2024	11	0	1	30	rendez-vous familial
+SAUTEPAELLE	Ademar	17	10	2024	12	30	8	0	rendez-vous ludique
+SAUTEPAELLE	Ademar	11	10	2024	11	15	7	30	rendez-vous associatif
+SAUTEPAELLE	Ademar	28	4	2024	13	30	5	0	rendez-vous bénévole
+SAUTEPAELLE	Ademar	11	4	2024	14	30	8	45	rendez-vous familial
+SAUTEPAELLE	Ademar	24	2	2024	10	15	5	30	rendez-vous technologique
+SAUTEPAELLE	Ademar	16	1	2024	15	0	5	0	rendez-vous amoureux
+SENS	Rene	1	12	2024	16	45	1	0	rendez-vous humanitaire
+SENS	Rene	24	11	2024	16	45	1	15	rendez-vous amoureux
+SENS	Rene	19	3	2024	9	30	2	30	rendez-vous artistique
+SI	Paris	3	5	2024	13	45	1	30	rendez-vous scientifique
+SI	Paris	11	2	2024	13	45	2	45	rendez-vous d'amitié
+SILLA	Eddy	6	12	2024	14	30	0	30	rendez-vous événementiel
+SION	Eva	8	2	2024	17	0	0	45	rendez-vous d'amitié
+SION	Sarah	14	10	2024	14	15	0	0	projet
+SION	Sarah	23	8	2024	13	30	0	15	rendez-vous amoureux
+SION	Sarah	15	8	2024	12	15	1	15	réunion
+SION	Sarah	17	7	2024	13	30	0	45	rendez-vous insolite
+SKACELAGUEUL	Eva	26	8	2024	10	0	1	15	réunion
+SKACELAGUEUL	Eva	7	6	2024	10	15	1	15	rendez-vous humanitaire
+SOBIEN	Samira	3	11	2024	14	45	5	15	réunion
+SOBIEN	Samira	19	9	2024	13	0	4	30	présentation
+SOEURDEIMPOTS	Regis	10	3	2024	10	15	2	30	rendez-vous religieux
+SOEURDEIMPOTS	Regis	4	1	2024	12	0	1	45	rendez-vous scientifique
+SOLETTE	Penelope	21	1	2024	13	30	2	45	rendez-vous insolite
+SONNE	Jacques	25	11	2024	14	45	0	15	rendez-vous amoureux
+SPACECITE	Alex	25	7	2024	17	45	2	45	rendez-vous scientifique
+SPACECITE	Alex	24	7	2024	10	45	7	0	rendez-vous familial
+SPACECITE	Alex	23	7	2024	13	45	6	30	entretien
+SPACECITE	Alex	14	6	2024	17	15	1	15	rendez-vous politique
+SPACECITE	Alex	8	1	2024	15	15	2	15	rendez-vous technologique
+STEROLE	Colette	0	0	0	0	0	0	0	0
+STOTE	Harry	9	5	2024	9	30	0	30	rendez-vous événementiel
+STOURNE	Henri	0	0	0	0	0	0	0	0
+SUCEMAISNAVALEPAS	Alucard	14	9	2024	12	45	2	45	rendez-vous ludique
+SUCEMAISNAVALEPAS	Alucard	2	8	2024	9	45	2	30	projet
+SUCEMAISNAVALEPAS	Alucard	18	3	2024	12	30	1	0	rendez-vous religieux
+SUCENIMAISNAVALEPAS	Alucard	4	7	2024	12	30	4	0	rendez-vous artistique
+SUCENIMAISNAVALEPAS	Alucard	27	4	2024	14	45	7	15	rendez-vous culturel
+SUCENIMAISNAVALEPAS	Alucard	19	4	2024	14	15	8	45	rendez-vous humanitaire
+SUCENIMAISNAVALEPAS	Alucard	18	3	2024	16	30	6	15	rendez-vous sportif
+SUCENIMAISNAVALEPAS	Alucard	20	2	2024	13	45	8	0	rendez-vous technologique
+SUCENIMAISNAVALEPAS	Alucard	11	1	2024	15	45	0	30	rendez-vous religieux
+SUPERMAN	Aldo	17	12	2024	10	45	3	0	rendez-vous familial
+SUPERMAN	Aldo	15	11	2024	15	45	0	0	rendez-vous médical
+SUPERMAN	Aldo	13	8	2024	9	30	5	45	rendez-vous associatif
+SUPERMAN	Aldo	4	6	2024	9	0	2	0	réunion
+SUPERMAN	Aldo	3	6	2024	11	30	1	15	rendez-vous scientifique
+SUPERMAN	Aldo	19	1	2024	11	0	7	15	rendez-vous artistique
+SURETILENAMOUR	Lara	15	12	2024	17	15	2	30	rendez-vous événementiel
+SURETILENAMOUR	Lara	8	8	2024	12	15	0	30	rendez-vous artistique
+SURETILENAMOUR	Lara	14	3	2024	17	0	0	15	rendez-vous associatif
+SURLEPROVISTE	Alain	19	12	2024	10	0	1	30	rendez-vous associatif
+SURLEPROVISTE	Alain	9	11	2024	9	45	2	30	rendez-vous familial
+SURLEPROVISTE	Alain	19	10	2024	17	15	6	30	rendez-vous familial
+SURLEPROVISTE	Alain	16	7	2024	13	30	6	30	projet
+SURLEPROVISTE	Alain	8	7	2024	11	30	2	0	rendez-vous artistique
+SURLEPROVISTE	Alain	19	6	2024	8	15	1	30	rendez-vous spirituel
+SURLEPROVISTE	Alain	3	6	2024	16	15	4	30	rendez-vous spirituel
+SURLEPROVISTE	Alain	26	3	2024	16	0	4	30	rendez-vous bénévole
+SURLEPROVISTE	Alain	13	3	2024	8	30	1	15	rendez-vous sportif
+SURLEPROVISTE	Alain	2	2	2024	14	30	3	0	rendez-vous bénévole
+TALARON	Delphine	28	10	2024	13	15	0	0	rendez-vous familial
+TALO	Armand	0	0	0	0	0	0	0	0
+TANRIEN	Jean	0	0	0	0	0	0	0	0
+TAR	Guy	21	9	2024	15	45	0	0	rendez-vous religieux
+TAR	Guy	8	5	2024	16	15	0	15	rendez-vous associatif
+TAR	Guy	8	4	2024	11	30	0	0	rendez-vous sportif
+TAR	Guy	7	2	2024	13	0	1	30	repas d'affaires
+TAR	Guy	13	1	2024	10	45	1	30	rendez-vous sportif
+TARDEELLEPIQUE	Helmut	15	12	2024	10	45	1	45	rendez-vous humanitaire
+TARDEELLEPIQUE	Helmut	26	8	2024	9	0	0	30	présentation
+TARTINE	Kimberley	13	4	2024	10	0	2	0	rendez-vous sportif
+TARTINE	Kimberley	26	2	2024	15	30	2	0	rendez-vous artistique
+TARTINE	Kimberley	5	2	2024	9	15	2	45	entretien
+TARTINE	Kimberley	4	2	2024	16	15	2	30	rendez-vous associatif
+TARTINE	Kimberley	14	1	2024	16	15	0	0	rendez-vous amoureux
+TATOUILLE	Lara	0	0	0	0	0	0	0	0
+TATTINE	Sarah	3	8	2024	12	15	2	45	rendez-vous religieux
+TATTINE	Sarah	20	4	2024	13	0	1	45	présentation
+TATTINE	Sarah	20	2	2024	13	30	2	0	rendez-vous culturel
+TECENFOTE	Dick	27	11	2024	12	15	2	0	rendez-vous humanitaire
+TECENFOTE	Dick	2	9	2024	14	45	2	0	rendez-vous religieux
+TECENFOTE	Dick	18	6	2024	15	0	2	0	projet
+TEMMEN	Parfait	7	9	2024	13	15	1	30	rendez-vous bénévole
+TEMMEN	Parfait	8	6	2024	13	45	2	45	rendez-vous politique
+TEMMEN	Parfait	15	3	2024	16	15	2	15	rendez-vous bénévole
+TERIEUR	Alain	0	0	0	0	0	0	0	0
+TERIEUR	Alex	22	5	2024	10	45	0	15	rendez-vous scientifique
+TERNETTE	Julien	26	10	2024	13	15	1	15	repas d'affaires
+TERNETTE	Julien	18	2	2024	10	0	1	15	rendez-vous médical
+TIBLANCHE	Laure	0	0	0	0	0	0	0	0
+TICHAUDIT	Bernard	16	11	2024	14	15	7	45	entretien
+TICHAUDIT	Bernard	22	10	2024	15	45	6	15	rendez-vous médical
+TICHAUDIT	Bernard	5	9	2024	13	0	0	0	rendez-vous artistique
+TICHAUDIT	Bernard	19	8	2024	17	30	3	30	rendez-vous religieux
+TICHAUDIT	Bernard	15	4	2024	17	30	3	15	rendez-vous spirituel
+TICHAUDIT	Bernard	27	3	2024	13	30	8	30	rendez-vous médical
+TICHAUT	Bernard	9	11	2024	10	0	2	15	rendez-vous familial
+TICHAUT	Bernard	2	5	2024	14	15	1	45	rendez-vous médical
+TIEANTIE	Anne	15	10	2024	16	15	1	30	rendez-vous bénévole
+TIEANTIE	Anne	24	9	2024	10	45	1	0	rendez-vous religieux
+TIEANTIE	Anne	14	6	2024	11	30	2	0	rendez-vous médical
+TIEANTIE	Anne	16	3	2024	11	0	5	30	rendez-vous médical
+TIEANTIE	Anne	2	1	2024	10	30	5	30	rendez-vous technologique
+TIFIE	Tarek	5	11	2024	11	30	2	30	rendez-vous ludique
+TIFIE	Tarek	20	4	2024	17	45	1	15	rendez-vous insolite
+TIM	Marie	6	11	2024	12	0	1	0	entretien
+TIM	Marie	21	10	2024	12	15	0	0	rendez-vous médical
+TIM	Marie	26	8	2024	11	0	1	45	rendez-vous événementiel
+TIM	Marie	15	3	2024	9	45	2	45	rendez-vous familial
+TIMEPLE	Thibault	22	12	2024	11	0	2	45	rendez-vous d'amitié
+TIMEPLE	Thibault	2	5	2024	9	0	1	45	rendez-vous médical
+TINE	Clement	7	11	2024	14	0	1	30	rendez-vous insolite
+TINNE	Guillaume	3	7	2024	10	15	0	0	rendez-vous culturel
+TIREPOURA	Adrienne	4	12	2024	17	45	5	0	rendez-vous spirituel
+TIREPOURA	Adrienne	3	10	2024	11	45	0	30	rendez-vous ludique
+TIREPOURA	Adrienne	1	9	2024	8	30	5	45	rendez-vous amoureux
+TIREPOURA	Adrienne	27	8	2024	11	45	2	30	rendez-vous spirituel
+TIREPOURA	Adrienne	19	7	2024	17	15	6	15	rendez-vous humanitaire
+TIREPOURA	Adrienne	15	5	2024	14	30	3	0	rendez-vous familial
+TIREPOURA	Adrienne	9	1	2024	11	15	2	0	rendez-vous associatif
+TIREPOURA	Adrienne	3	1	2024	13	30	7	45	rendez-vous amoureux
+TITOUPLIN	Jean	4	8	2024	12	15	1	15	réunion
+TITOUPLIN	Jean	13	6	2024	15	45	2	30	rendez-vous insolite
+TOKETCHUP	Thomas	22	3	2024	12	0	0	45	rendez-vous politique
+TOKETCHUP	Thomas	24	1	2024	10	15	0	0	rendez-vous d'amitié
+TOM	Dereck	24	10	2024	14	45	0	15	rendez-vous scientifique
+TOMIE	Anna	16	12	2024	12	15	1	30	rendez-vous ludique
+TOMIE	Anna	16	5	2024	16	15	0	45	rendez-vous familial
+TONPTIKU	James	17	9	2024	13	30	0	30	réunion
+TONPTIKU	James	10	1	2024	11	15	2	30	présentation
+TOUASSANSOUH	Yvan	0	0	0	0	0	0	0	0
+TOUDOT	Armand	23	12	2024	12	45	6	30	rendez-vous culturel
+TOUDOT	Armand	14	6	2024	14	45	5	0	rendez-vous amoureux
+TOUDOT	Armand	14	5	2024	12	45	4	30	rendez-vous artistique
+TOUILLE	Sacha	0	0	0	0	0	0	0	0
+TOULLEMONDE	Pacôme	0	0	0	0	0	0	0	0
+TOUSEUL	Sebastienne	11	2	2024	9	30	0	0	rendez-vous médical
+TOUSEUL	Sebastienne	5	2	2024	15	45	0	0	rendez-vous familial
+TOUSSKJEBOUF	Georgette	0	0	0	0	0	0	0	0
+TOYELEVECE	Ginette	18	7	2024	14	15	0	30	rendez-vous amoureux
+TRAHUILE	Phil	9	9	2024	16	15	0	15	rendez-vous associatif
+TREMBLAY	Yvon	19	8	2024	14	15	1	30	rendez-vous événementiel
+TREMBLAY	Yvon	1	1	2024	17	45	1	0	repas d'affaires
+TRIZEVIT	Jessica	21	11	2024	15	45	1	45	repas d'affaires
+TRIZEVIT	Jessica	22	2	2024	17	0	1	45	rendez-vous associatif
+TROIdayS	Adam	7	12	2024	17	45	0	15	projet
+TROIdayS	Adam	19	3	2024	13	0	1	15	rendez-vous ludique
+TROULECUL	Sam	10	12	2024	11	45	0	30	rendez-vous religieux
+TROULEFION	Sam	10	11	2024	12	0	2	0	rendez-vous technologique
+TROULEFION	Sam	3	7	2024	16	15	0	0	rendez-vous spirituel
+TROULEFION	Sam	27	2	2024	9	0	1	15	rendez-vous insolite
+TROULEFION	Sam	8	2	2024	15	30	1	15	rendez-vous bénévole
+TU	Candy	23	12	2024	11	0	2	45	rendez-vous humanitaire
+TUETU	Candy	1	11	2024	10	30	2	45	entretien
+TUETU	Candy	26	8	2024	10	15	0	45	rendez-vous amoureux
+TUETU	Candy	16	8	2024	15	30	6	15	rendez-vous artistique
+UNMANTOPOURLIVERE	Jeremy	0	0	0	0	0	0	0	0
+USE	Jacques	25	11	2024	12	15	1	0	rendez-vous familial
+USE	Jacques	5	2	2024	17	15	1	15	rendez-vous spirituel
+USE	Jacques	3	2	2024	17	0	1	15	rendez-vous d'amitié
+UTION	Paul	20	8	2024	10	15	0	45	rendez-vous spirituel
+UTION	Paul	20	8	2024	9	0	1	30	rendez-vous politique
+VALDA	Esmee	19	12	2024	10	0	0	45	présentation
+VALDA	Esmee	23	5	2024	10	30	1	15	rendez-vous insolite
+VALDA	Esmee	22	3	2024	14	30	2	0	rendez-vous médical
+VAPABIEN	Yves	21	12	2024	17	45	2	45	rendez-vous bénévole
+VAPABIEN	Yves	23	7	2024	13	0	0	30	rendez-vous bénévole
+VAPABIEN	Yves	12	7	2024	15	0	2	0	rendez-vous sportif
+VAPABIEN	Yves	4	5	2024	14	30	0	30	rendez-vous événementiel
+VAPABIEN	Yves	21	4	2024	17	15	1	45	rendez-vous spirituel
+VAPARTOUT	Yves	23	11	2024	10	30	1	0	rendez-vous technologique
+VAPARTOUT	Yves	1	11	2024	12	30	2	15	rendez-vous scientifique
+VAPARTOUT	Yves	5	8	2024	16	30	2	30	rendez-vous d'amitié
+VAPARTOUT	Yves	18	6	2024	14	0	0	30	rendez-vous médical
+VAPARTOUT	Yves	4	4	2024	9	0	1	0	réunion
+VAPAVITMELIVALOIN	Amelie	15	12	2024	9	15	1	45	rendez-vous scientifique
+VAPAVITMELIVALOIN	Amelie	15	5	2024	10	30	1	15	rendez-vous scientifique
+VAPAVITMELIVALOIN	Amelie	28	1	2024	15	45	1	15	rendez-vous bénévole
+VASELLE	Aude	19	9	2024	11	30	8	0	rendez-vous technologique
+VASELLE	Aude	14	7	2024	11	15	6	15	rendez-vous ludique
+VASELLE	Aude	25	6	2024	9	15	4	15	rendez-vous religieux
+VASELLE	Aude	26	5	2024	8	0	6	15	rendez-vous amoureux
+VASELLE	Aude	14	5	2024	10	30	4	30	rendez-vous scientifique
+VASELLE	Aude	1	5	2024	12	15	8	0	rendez-vous insolite
+VASELLE	Aude	17	3	2024	12	15	5	15	entretien
+VASELLE	Aude	14	1	2024	13	15	1	30	rendez-vous associatif
+VERSAIRE	Annie	12	3	2024	17	0	2	0	rendez-vous scientifique
+VERSATILE	Annie	20	10	2024	11	30	8	45	rendez-vous humanitaire
+VERSATILE	Annie	5	8	2024	16	45	7	30	rendez-vous culturel
+VERSATILE	Annie	2	6	2024	10	30	4	15	rendez-vous amoureux
+VERSATILE	Annie	14	4	2024	15	0	4	15	rendez-vous sportif
+VERSATILE	Annie	3	3	2024	11	45	7	30	entretien
+VERSE	Alain	24	6	2024	9	15	2	0	rendez-vous d'amitié
+VESSELLE	Aude	6	11	2024	14	45	2	0	rendez-vous spirituel
+VESSELLE	Aude	11	6	2024	15	45	2	45	rendez-vous ludique
+VEUPLU	John	23	6	2024	11	45	1	45	rendez-vous événementiel
+VEUPLU	John	9	2	2024	15	15	2	30	rendez-vous scientifique
+VIENPLUS	Rony	23	8	2024	16	45	2	0	rendez-vous religieux
+VIENPLUS	Rony	4	4	2024	17	45	0	45	rendez-vous événementiel
+VIERE	Marie	0	0	0	0	0	0	0	0
+VIGOTE	Sarah	8	1	2024	14	45	0	30	rendez-vous bénévole
+VISSEUSE	Sarah	0	0	0	0	0	0	0	0
+VITJAVEL	Aude	2	11	2024	15	45	8	0	repas d'affaires
+VITJAVEL	Aude	26	7	2024	17	45	4	30	rendez-vous culturel
+VITJAVEL	Aude	24	7	2024	13	15	2	15	rendez-vous scientifique
+VITJAVEL	Aude	13	5	2024	12	45	4	30	rendez-vous bénévole
+VITJAVEL	Aude	10	5	2024	8	15	6	30	rendez-vous événementiel
+VITLEZEMBROUILLES	Eve	9	12	2024	14	30	1	15	rendez-vous bénévole
+VITLEZEMBROUILLES	Eve	18	9	2024	12	45	0	15	rendez-vous familial
+VOIRREMERCI	Laure	28	7	2024	10	30	2	30	rendez-vous d'amitié
+VOIRREMERCI	Laure	23	3	2024	11	0	0	45	rendez-vous événementiel
+VOYAGE	Fred	28	7	2024	11	45	1	30	rendez-vous ludique
+VOYAGE	Fred	9	7	2024	16	30	2	45	rendez-vous associatif
+VOYANCE	Claire	19	1	2024	14	45	2	30	repas d'affaires
+WAQUES	Thomas	24	11	2024	12	15	1	45	rendez-vous d'amitié
+WAQUES	Thomas	2	10	2024	16	30	2	0	présentation
+WAQUES	Thomas	5	9	2024	12	45	0	45	rendez-vous politique
+XELLERRE	Jacques	26	7	2024	14	30	0	0	repas d'affaires
+YADLAVIYADLESPOIR	Tanguy	13	11	2024	9	15	1	15	rendez-vous artistique
+YADLAVIYADLESPOIR	Tanguy	27	3	2024	16	30	2	30	rendez-vous artistique
+YIOTINE	Guy	8	11	2024	17	30	2	45	rendez-vous sportif
+YIOTINE	Guy	22	4	2024	9	30	0	15	entretien
+YSOITIL	Maude	21	10	2024	10	0	0	45	réunion
+YSOITIL	Maude	1	10	2024	14	30	2	15	rendez-vous humanitaire
+YSOITIL	Maude	1	7	2024	15	15	2	0	rendez-vous culturel
+ZA	Pit	2	12	2024	9	30	1	30	rendez-vous artistique
+ZA	Pit	19	11	2024	16	30	0	15	rendez-vous politique
+ZA	Pit	2	11	2024	13	45	1	0	rendez-vous familial
+ZA	Pit	3	5	2024	17	0	1	15	rendez-vous d'amitié
+ZA	Pit	26	2	2024	14	30	1	0	rendez-vous sportif
+ZEBLOUSE	Agathe	15	1	2024	10	30	2	0	rendez-vous associatif
+ZEPROFIT	Berthe	18	10	2024	11	15	0	15	rendez-vous médical
+ZEPROFIT	Berthe	20	1	2024	9	15	2	30	rendez-vous ludique
+ZETOFRAIS	Melanie	12	4	2024	15	30	0	0	rendez-vous artistique
+ZIZANIE	Sheila	12	7	2024	17	0	0	30	rendez-vous artistique
+ZOBARENTRER	Edmond	20	10	2024	10	45	2	45	entretien
+ZOBARENTRER	Edmond	22	6	2024	14	30	1	30	rendez-vous culturel
+ZOBARENTRER	Edmond	19	1	2024	13	45	1	45	rendez-vous scientifique
+ZOLE	Camille	0	0	0	0	0	0	0	0
+ZOLTE	Camille	26	9	2024	13	30	4	45	rendez-vous scientifique
+ZOLTE	Camille	23	7	2024	10	15	5	15	rendez-vous d'amitié
+ZOLTE	Camille	3	4	2024	9	30	8	30	repas d'affaires
+ZOLTE	Camille	7	1	2024	17	45	0	30	rendez-vous familial
