@@ -6,7 +6,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-#include "../../Downloads/allfunction.h"
+#include "allfunction.h"
 #include <time.h>
 #include <stdio.h>
 #include <ctype.h>
