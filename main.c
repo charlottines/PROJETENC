@@ -1,7 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
-/////////                    PROGRAMME C AGENDA                     ////////
 ////////  AUTEUR : Mehadhebi Ines et Franja Bastien et Bail Lisa  /////////
-///////                        VERSION : 5                       /////////
+///////                        VERSION : 6                       /////////
 /////////////////////////////////////////////////////////////////////////
 
 
@@ -17,8 +16,8 @@
 
 
 int main(void) {
-    setlocale(LC_ALL, "fr_FR.UTF-8"); // Définir la locale en UTF-8
-    //créer un agenda
+    setlocale(LC_ALL, "fr_FR.UTF-8"); // Défint locale: UTF-8
+    //créer agenda
     t_agenda *agenda = createAgenda();
     t_Searchcontact search;
     char *nom;
@@ -34,13 +33,13 @@ int main(void) {
     int nbc, nbr;
 
     t[0]='\0'; t1[0]='\0';
-    // Vérifier l'existance d'une sauvegarde. Si oui La charger ? si non afficher menu
+    // sauvegarde existe ?. Si oui :charger/non : afficher menu
     if (ExisteSauvegarde() == 0) {
         MenuHeader(1);
-        MenuBody("           ATTENION une sauvegarde existe deja!", "           Voulez-vous la telecharger ? [O]ui[N]on", NULL);
-        MenuPied();
+        MenuBody("           ATTENTION une sauvegarde existe deja!", "           Voulez-vous la telecharger ? [O]ui[N]on", NULL);
+        MenuFeet();
         while (c = getchar()) {
-            while (getchar() != '\n') { } // vider le buffer si saisie de plusieurs caracteres
+            while (getchar() != '\n') { } // vider le buffer dans le cas ou  saisie de plusieurs caracteres
             if (c == 'o' || c == 'O'){
                 ImportContactRdv(agenda);
                 break;
@@ -53,16 +52,16 @@ int main(void) {
             }
         }
     }
-    // Affiche le menu tant que pas quitter
+    // Affiche le menu while pas quitter
     strcpy(t, "           Choissisez une lettre  : R , S , D, C , Q");
 
 
     //char str[4]; for (int j = 0; j < 50000; ++j) { for (int i = 0; i < 3; ++i) { str[i] = (char)(rand() % 26 + 'a'); } str[3] = '\0'; Search(agenda, str, "", 0); } //Génération aléatoire de 50000 chaines de 3 caractères pour remplir les logs pour avoir un graph cg TpsMoy.xls
-
+// enlever les "//" pour faire le fichier log sinon pertre de temps de la faire tourner a chaque fois
     while (1 == 1) {
         MenuHeader(0);
         switch (aff) {
-            case 'R': // affichage des rdv
+            case 'R': // affichage rdv
                 MenuBodyR(search.current, 1, "");
                 aff=' ';
                 break;
@@ -75,19 +74,19 @@ int main(void) {
                 }
                 break;
         }
-        MenuPied();
+        MenuFeet();
         c = getchar();
-        while (getchar() != '\n') { } // vider le buffer si saisie de plusieurs caracteres
+        while (getchar() != '\n') { } // vider le buffer dans le cas ou  saisie de plusieurs caracteres
         switch (c) {
             case 'c':
             case 'C':
                 MenuHeader(1);
                 MenuBody("           Saisir un nom (min 3 car.) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 nom = scanString("");
                 MenuHeader(1);
                 MenuBody("           Saisir un prenom (min 3 car.) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 prenom = scanString("");
                 search = Search(agenda, nom, prenom, 0);
                 strcpy(t1, "           Choissisez une lettre  : R , S , D, C , Q");
@@ -107,14 +106,14 @@ int main(void) {
             case 'R':
                 MenuHeader(1);
                 MenuBody("           Saisir les 3 premiers caractere d'un nom :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 nom = scanString("");
                 nom[3]='\0';
                 search = Search(agenda, nom, "", 0);
                 MenuHeader(1);
                 nbc=MenuBodyC(search.current, 0, nom, "");
-                MenuPied();
-                if (nbc=='0') { // Pas de choice
+                MenuFeet();
+                if (nbc=='0') { // Pas de choix
                     sprintf(t, "           Aucun nom ne correspond à \"%s\"", nom);
                     t1[0]='\0';
                     break;
@@ -126,15 +125,15 @@ int main(void) {
                             if (choice == 0) { // Nouveau contact
                                 MenuHeader(1);
                                 MenuBody("           Saisir un nom (min 3 car.) :", NULL, NULL);
-                                MenuPied();
+                                MenuFeet();
                                 nom = scanString("");
                                 MenuHeader(1);
                                 MenuBody("           Saisir un prenom (min 3 car.) :", NULL, NULL);
-                                MenuPied();
+                                MenuFeet();
                                 prenom = scanString("");
                                 break;
                             }
-                            else if (choice > 0 && choice <= nbc) { // création rdv du contact sélectionné
+                            else if (choice > 0 && choice <= nbc) { // création rdv pour le contact
                                 for (int i = 0; i < choice - 1; i++) { search.current = search.current->next[0];}
                                 nom = (char *)malloc(strlen(search.current->nom) + 1);
                                 strcpy(nom, search.current->nom);
@@ -142,7 +141,7 @@ int main(void) {
                                 strcpy(prenom, search.current->prenom);
                                 break;
                             }
-                            else if (choice == 999) { // Abandon de l'opération
+                            else if (choice == 999) { // Abandon
                                 strcpy(t, "           Abandon");
                                 t1[0]='\0';
                                 break;
@@ -151,12 +150,12 @@ int main(void) {
                         printf("Saisie attendue : un nombre entre 0 et %d ou 999 : ",nbc);
                     } while (1==1);
                 }
-                if (choice == 999) { // Abandon de l'opération
+                if (choice == 999) { // Abandon
                     break;
                 }
                 MenuHeader(1);
                 MenuBody("           Saisir la date (jj/mm/aaaa) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 do {
                     fgets(date, sizeof(date), stdin);
                     if (sscanf(date, "%d/%d/%d", &jour, &month, &year) == 3) {
@@ -168,7 +167,7 @@ int main(void) {
                 } while (1==1);
                 MenuHeader(1);
                 MenuBody("           Saisir l'heure (hh:mm) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 do {
                     fgets(time, sizeof(time), stdin);
                     if (sscanf(time, "%d:%d", &hour, &minutes) == 2) {
@@ -180,7 +179,7 @@ int main(void) {
                 } while (1==1);
                 MenuHeader(1);
                 MenuBody("           Saisir la durée d(hh:mm) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 do {
                     fgets(time, sizeof(time), stdin);
                     if (sscanf(time, "%d:%d", &hour, &minutes) == 2) {
@@ -192,7 +191,7 @@ int main(void) {
                 } while (1==1);
                 MenuHeader(1);
                 MenuBody("           Saisir l'objet du rendez-vous (min 3 car.) :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 objet = scanString("");
 
                 search = Search(agenda, nom, prenom, 0);
@@ -213,14 +212,14 @@ int main(void) {
             case 'D':
                 MenuHeader(1);
                 MenuBody("           Saisir les 3 premiers caractere d'un nom :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 nom = scanString("");
                 nom[3]='\0';
                 search = Search(agenda, nom, "", 0);
                 MenuHeader(1);
                 nbc=MenuBodyC(search.current, 1, nom, "");
-                MenuPied();
-                if (nbc=='0') { // Pas de choice
+                MenuFeet();
+                if (nbc=='0') { // Pas de choix
                     sprintf(t, "           Aucun nom ne correspond à \"%s\"", nom);
                     t1[0]='\0';
                     break;
@@ -233,7 +232,7 @@ int main(void) {
                                 for (int i = 0; i < choice - 1; i++) { search.current = search.current->next[0];}
                                 MenuHeader(1);
                                 nbr=MenuBodyR(search.current, 0, "           Choisissez un nombre pour le supprimer ");
-                                MenuPied();
+                                MenuFeet();
                                 do {
                                     fgets(chx, sizeof(chx), stdin);
                                     if (sscanf(chx, "%d", &choice) == 1) {
@@ -247,7 +246,7 @@ int main(void) {
                                             strcat(t, "            a ete supprime");
                                             break;
                                         }
-                                        else if (choice == 999) { // Abandon de l'opération
+                                        else if (choice == 999) { // Abandon
                                             strcpy(t, "           Abandon");
                                             t1[0]='\0';
                                             break;
@@ -257,7 +256,7 @@ int main(void) {
                                 } while (1==1);
                                 break;
                             }
-                            else if (choice == 999) {  // Abandon de l'opération
+                            else if (choice == 999) {  // Abandon
                                 break;
                             }
                         }
@@ -269,14 +268,14 @@ int main(void) {
             case 'S':
                 MenuHeader(1);
                 MenuBody("           Saisir les 3 premiers caractere d'un nom :", NULL, NULL);
-                MenuPied();
+                MenuFeet();
                 nom = scanString("");
                 nom[3]='\0';
                 search = Search(agenda, nom, "", 0);
                 MenuHeader(1);
                 nbc=MenuBodyC(search.current, 1, nom, "");
-                MenuPied();
-                if (nbc=='0') { // Pas de choice
+                MenuFeet();
+                if (nbc=='0') { // Pas de choix
                     sprintf(t, "           Aucun nom ne correspond à \"%s\"", nom);
                     t1[0]='\0';
                     break;
@@ -292,7 +291,7 @@ int main(void) {
                                 aff='R';
                                 break;
                             }
-                            else if (choice == 999) { // Abandon de l'opération
+                            else if (choice == 999) { // Abandon
                                 strcpy(t, "            Abandon");
                                 strcpy(t1, "           Choissisez une lettre  : R , S , D, C , Q");
                                 break;
@@ -307,9 +306,9 @@ int main(void) {
                 if (SauvegardePossible() == 0) {
                     MenuHeader(1);
                     MenuBody("           Voulez-vous sauvegarder ? [O]ui [N]on ", NULL, NULL);
-                    MenuPied();
+                    MenuFeet();
                     while (c = getchar()) {
-                        while (getchar() != '\n') { } // vider le buffer si saisie de plusieurs caracteres
+                        while (getchar() != '\n') { } // vider le buffer dans le cas ou saisie de plusieurs caracteres
                         if (c == 'o' || c == 'O'){
                             ExportContactRdv(agenda);
                             break;
@@ -330,26 +329,21 @@ int main(void) {
         }
     }
 
-    free(agenda);// Libération de la mémoire
+    free(agenda);// Libération mémoire
 
-
-    //proposer une complétion après les 3 première lettres (vérifier si bien ca attendu)
-    //fournir le temps de calcul d'insertion pas fait juste fait pour la Search
-
-    //
     return 0;
 }
 
 /*
  int main(void) {
-  //main partie 2 attention sur replit ca enregistre mais pas CLION jsp prk
+  //main2  attention sur replit ca enregistre mais pas CLION jsp prk
   time_t t;
   time(&t);
   srand(t);
   int n = rand() % 12 + 1;
   int size = pow(2, n) - 1;
   int tab[size];
-  for (int i = 0; i < size; i++) { // initialisation du tableau des niveau à 0
+  for (int i = 0; i < size; i++) { // initialisation  des niveau à 0 des tableaus
     tab[i] = 0;
   }
   int a = 1;
@@ -405,12 +399,12 @@ int main(void) {
     // time_lvl0 = getTimeAsString(); // fonction du module timer
 
     // startTimer();
-    debut = clock(); // Enregistrez le temps de début
+    debut = clock(); // Enregistre le temps de début
     for (int i = 0; i < pow(10, j + 3); i++) {
       expert_search(list, list->head[n - 1], NULL, rand() % size + 1, n - 1);
     }
     // stopTimer();
-    fin = clock(); // Enregistrez le temps de fin
+    fin = clock(); // Enregistre le temps de fin
     // displayTime();
     // time_all_levels = getTimeAsString();
     sprintf(time_all_levels,"%f",((double)(fin - debut)) / CLOCKS_PER_SEC *1000);
@@ -427,7 +421,7 @@ int main(void) {
 */
 /*
 int main(void) {
-//Partie 1 on teste les fonction du main
+// main1
   t_d_list *list = create_list(5);
   display_all_levels(list);
   t_d_cell *cell1 = create_cell(56, 3);
