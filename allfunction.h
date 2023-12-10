@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 /////////                    PROGRAMME C AGENDA                     ////////
 ////////  AUTEUR : Mehadhebi Ines et Franja Bastien et Bail Lisa  /////////
-///////                        VERSION : 5                       /////////
+///////                        VERSION : 6                       /////////
 /////////////////////////////////////////////////////////////////////////
 
 #ifndef UNTITLED6_ALLFUNCTION_H
@@ -10,7 +10,6 @@
 
 #include <sys/times.h>
 
-// Structure representing a skip list cell with a value and an array of pointers to the next cell(s)
 typedef struct s_d_cell {
     int value;
     int max_level;
@@ -19,7 +18,7 @@ typedef struct s_d_cell {
 
 t_d_cell *create_cell(int, int);
 
-// structure a n niveau pour un tableau de n ligne avec une valeur max et un
+//  a n niveau pour un tableau de n ligne avec val max
 // tableau de pointeur
 typedef struct s_d_list {
     t_d_cell **head;
@@ -34,7 +33,7 @@ void display_all_levels(t_d_list *);
 int classical_search(t_d_list *, int, int);
 int expert_search(t_d_list *, t_d_cell *, t_d_cell *, int, int);
 
-// Structure pour stocker un rendez-vous
+// stocker un rendez-vous
 typedef struct s_rendezvous {
     int day, month, year;
     int hour, minute;
@@ -43,7 +42,7 @@ typedef struct s_rendezvous {
     struct s_rendezvous *next;
 } t_rendezvous;
 
-// Structure pour stocker un contact
+//  stocker un contact
 typedef struct s_contact {
     char *nom;
     char *prenom;
@@ -53,7 +52,7 @@ typedef struct s_contact {
     int max_level;
 } t_contact;
 
-// Structure pour l'agenda
+// l'agenda
 typedef struct s_agenda {
     t_contact **contacts; // Un tableau dynamique de contacts
     int max_level;        // nombre de niveau de la liste
@@ -92,7 +91,7 @@ int SauvegardePossible();
 
 
 void MenuHeader(int );
-void MenuPied();
+void MenuFeet();
 void MenuBody(char *, char*, char *);
 int MenuBodyR(t_contact *, int, char *);
 int MenuBodyC(t_contact *, int, char *, char *);
