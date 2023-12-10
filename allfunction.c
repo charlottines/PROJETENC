@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 /////////                    PROGRAMME C AGENDA                     ////////
 ////////  AUTEUR : Mehadhebi Ines et Franja Bastien et Bail Lisa  /////////
-///////                        VERSION : 5                       /////////
+///////                        VERSION : 6                       /////////
 /////////////////////////////////////////////////////////////////////////
 
 #include <stdlib.h>
@@ -13,7 +13,7 @@
 #include <math.h>
 
 
-// create une cellule : on donne sa valeur et le nombre de niveaux que possède
+// creer une cellule : on donne sa valeur et le nombre de niveaux que possède
 // cette cellule, pour obtenir un pointeur vers cette cellule
 t_d_cell *create_cell(int value, int n_levels) {
     t_d_cell *cell = malloc(sizeof(t_d_cell)); // alloue de la memoire
@@ -22,7 +22,7 @@ t_d_cell *create_cell(int value, int n_levels) {
     cell->next = malloc(
             n_levels * sizeof(t_d_cell *)); // alloue la memoire des pointeur suivant
     for (int i = 0; i < n_levels; i++) {
-        cell->next[i] = NULL; // les pointeur pointe a null
+        cell->next[i] = NULL; // les pointeur  a null
     }
     return cell;
 }
@@ -733,14 +733,14 @@ void MenuHeader(int on) {//le paramètre on signigie que le menu est actif sinon
         printf("              ADD [R]DV   | [S]how RDV  | [D]elete RDV  | [C]ontact  | [Q]uitter                                                                            \n");
     }
 }
-void MenuPied() {//s'affiche en bas contact et rdv nombre chacun
+void MenuFeet() {//s'affiche en bas contact et rdv nombre chacun
     float v0=0, vall=0, min_0['z'-'a'+2], max_0['z'-'a'+2], moy_0['z'-'a'+2], min_all['z'-'a'+2], max_all['z'-'a'+2], moy_all['z'-'a'+2], moy_max=0;//v0 vall valeur que l'on lit, min max permet d'avoir la plus petite/grande valeur pour la lettre des code Ascii 1 indice car 1 valeur en plus plus 1
     int nbl['z'-'a'+2];//nombre de ligne
     size_t s = 0;
     char l[256], *t=NULL;//pointeur vers ligne
 
     printf("\n");
-    printf("                                       %6d contact(s)                            \n",nbcontact, nbrdv);
+    printf("                   l'agenda  contient : %6d contact(s)  &   %6d Rendez-vous                      \n",nbcontact, nbrdv);
     printf("\n");
 
     // lecture des temps dans le fichier des log
