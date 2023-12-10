@@ -1,3 +1,5 @@
 https://github.com/charlottines/PROJETENC.git
 
 git@github.com:charlottines/PROJETENC.git
+
+gh repo clone charlottines/PROJETENC
